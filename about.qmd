@@ -1,0 +1,39 @@
+---
+title: "About DIAD"
+subtitle: "The Data Integration & Analytics Department of the World Organisation for Animal Health."
+---
+
+## The department
+
+DIAD turns WOAH data into evidence and advice. It is organised in three business teams and one transversal team:
+
+- **[The Observatory](observatory/index.qmd)** monitors the implementation of WOAH standards by Members.
+- **[EPIQ](epiq/index.qmd)**, the EPIdemiology & Quantitative intelligence group, runs epidemic intelligence and risk analytics.
+- **[Animal Health Econometrics](econometrics/index.qmd)** studies the economics of animal health.
+- **[The Data Science Lab](dslab/index.qmd)** provides data products, pipelines, automation and AI to all of WOAH.
+
+## DIAD in the WOAH data strategy
+
+DIAD leads the data side of the WOAH data strategy, from collection to external sharing.
+
+| Step | Where we are going |
+|---|---|
+| **Collect** | Increase the quality and coverage of officially reported data. Make automated online media monitoring and data scouting part of routine rapid risk assessment. |
+| **Curate** | Complete the glossary, with DOIs. |
+| **Analyse** | Publish situation reports openly. Leverage our network of collaborators to create value from WOAH data. |
+| **Share internally** | Bring all technical datasets onto Fabric, with ownership kept by departments. |
+| **Share externally** | Master datasets available through the API. MCP project for AI access. |
+
+: {.woah-table}
+
+These objectives contribute to three outcomes of WOAH's **8th Strategic Plan**: standards adaptable to all Members; decision-making to tackle global challenges; and leadership in animal health data.
+
+## How this site works
+
+- Each piece of technical material lives in its own public repository of the [Data-Integration-Department-WOAH](https://github.com/orgs/Data-Integration-Department-WOAH/repositories) organisation.
+- This site is built with [Quarto](https://quarto.org) and published on GitHub Pages.
+- Reuse of WOAH data should cite WOAH as the source.
+
+## Contact
+
+Write to **diad @ woah . org**.

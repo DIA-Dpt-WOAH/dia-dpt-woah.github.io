@@ -1,0 +1,67 @@
+---
+title: "The Observatory"
+subtitle: "Monitoring how Members implement WOAH standards, and turning the evidence into recommendations."
+title-block-banner: "#DCE9F4"
+title-block-banner-color: "#27282A"
+listing:
+  id: obs-materials
+  contents: materials.yml
+  template: ../_templates/materials.ejs
+  sort: false
+  categories: true
+---
+
+## Mission
+
+The Observatory monitors the uptake of WOAH international standards by Members and formulates recommendations to improve them and their implementation. Its data come from Members through the official channel, mainly through ad-hoc **Thematic Studies**, and increasingly from complementary sources such as national legislation.
+
+::: {.stat-row}
+::: {.stat}
+[Official]{.num}
+[Data reported by Members through thematic studies]{.lbl}
+:::
+::: {.stat}
+[FAOLEX]{.num}
+[National legislation, exploited with AI support]{.lbl}
+:::
+::: {.stat}
+[6 months]{.num}
+[Horizon for routine reporting]{.lbl}
+:::
+:::
+
+## Where we are going
+
+The Observatory works at capacity and is moving towards sharper, more targeted and more robust output.
+
+::: {.features}
+::: {.feature}
+#### Routine reporting
+Regular, reproducible outputs replacing one-off production, planned within the next 6 months.
+:::
+::: {.feature}
+#### Prescriptive analysis
+From describing implementation gaps to recommending actions Members and WOAH can take.
+:::
+::: {.feature}
+#### Diversified data sources
+New sources beyond thematic studies, including AI-supported analysis of the FAOLEX legislation database.
+:::
+:::
+
+## Technical material
+
+::: {#obs-materials}
+:::
+
+## Partners
+
+::: {.chips}
+- WTO SPS Committee
+- OECD Public Governance Directorate
+- OECD Paris-based Network of Evaluators
+- IPPC
+- Codex Alimentarius
+:::
+
+More on the Observatory at [woah.org](https://www.woah.org/en/what-we-do/standards/observatory/).

@@ -1,0 +1,219 @@
+[
+  {
+    "objectID": "network.html",
+    "href": "network.html",
+    "title": "Our network",
+    "section": "",
+    "text": "The DSQE network, aka the Data Swarm, is WOAH’s network of data scientists. It brings together 7 WOAH Collaborating Centres in 6 countries working on epidemiology, risk analysis, modelling and surveillance.\n\n\n\n\n\nCollaborating Centre\nHost institution / country\n\n\n\n\nVeterinary Epidemiology & Public Health\nMassey University, New Zealand / CAHEC, China\n\n\nEpidemiology & Risk Assessment of Aquatic Animal Diseases (Europe)\nNorwegian Veterinary Institute, Norway\n\n\nRisk Analysis & Modelling\nRoyal Veterinary College / APHA, UK\n\n\nEpidemiology, Modelling & Surveillance\nIZS Abruzzo e Molise, Italy\n\n\nEpidemiology, Training & Control of Emerging Avian Diseases\nIZS delle Venezie, Italy\n\n\nWildlife Health Surveillance & Epidemiology\nMahidol University, Thailand\n\n\nAnimal Disease Surveillance, Risk Analysis & Epidemiological Modeling\nUSDA APHIS CEAH, USA"
+  },
+  {
+    "objectID": "network.html#first-orbit-the-data-swarm",
+    "href": "network.html#first-orbit-the-data-swarm",
+    "title": "Our network",
+    "section": "",
+    "text": "The DSQE network, aka the Data Swarm, is WOAH’s network of data scientists. It brings together 7 WOAH Collaborating Centres in 6 countries working on epidemiology, risk analysis, modelling and surveillance.\n\n\n\n\n\nCollaborating Centre\nHost institution / country\n\n\n\n\nVeterinary Epidemiology & Public Health\nMassey University, New Zealand / CAHEC, China\n\n\nEpidemiology & Risk Assessment of Aquatic Animal Diseases (Europe)\nNorwegian Veterinary Institute, Norway\n\n\nRisk Analysis & Modelling\nRoyal Veterinary College / APHA, UK\n\n\nEpidemiology, Modelling & Surveillance\nIZS Abruzzo e Molise, Italy\n\n\nEpidemiology, Training & Control of Emerging Avian Diseases\nIZS delle Venezie, Italy\n\n\nWildlife Health Surveillance & Epidemiology\nMahidol University, Thailand\n\n\nAnimal Disease Surveillance, Risk Analysis & Epidemiological Modeling\nUSDA APHIS CEAH, USA"
+  },
+  {
+    "objectID": "network.html#second-orbit-academic-partners",
+    "href": "network.html#second-orbit-academic-partners",
+    "title": "Our network",
+    "section": "Second orbit: academic partners",
+    "text": "Second orbit: academic partners\nIndividual academic partnerships, outside the formal Collaborating Centre network.\n\nHokkaido University, Sapporo, Japan\nHankuk University of Foreign Studies, Seoul, South Korea"
+  },
+  {
+    "objectID": "network.html#partners-by-area",
+    "href": "network.html#partners-by-area",
+    "title": "Our network",
+    "section": "Partners by area",
+    "text": "Partners by area\n\n\n\nDIAD at the centre, connected to its four areas, each with its external partners.\n\n\n\nJoin the network. WOAH Collaborating Centres and academic groups working on animal health data science can contact DIAD at diad @ woah . org."
+  },
+  {
+    "objectID": "epiq/index.html",
+    "href": "epiq/index.html",
+    "title": "EPIQ",
+    "section": "",
+    "text": "EPIQ carries WOAH’s epidemic intelligence and much more: disease situation reports, ad-hoc analyses and the integration of surveillance data. It combines official data reported by Members with non-official sources scouted by WOAH, such as online media and data sources identified for rapid risk assessment."
+  },
+  {
+    "objectID": "epiq/index.html#mission",
+    "href": "epiq/index.html#mission",
+    "title": "EPIQ",
+    "section": "",
+    "text": "EPIQ carries WOAH’s epidemic intelligence and much more: disease situation reports, ad-hoc analyses and the integration of surveillance data. It combines official data reported by Members with non-official sources scouted by WOAH, such as online media and data sources identified for rapid risk assessment."
+  },
+  {
+    "objectID": "epiq/index.html#where-we-are-going",
+    "href": "epiq/index.html#where-we-are-going",
+    "title": "EPIQ",
+    "section": "Where we are going",
+    "text": "Where we are going\n\n\nIntegrated intelligence\nOfficial and non-official data, unified across WOAH.\n\n\nAnticipatory risk intelligence\nFrom event detection to trends, foresight and modelling.\n\n\nDecision support, at scale\nFeeding WOAH risk assessments, powered by automation and AI.\n\n\n\nHighlights of the year\n\nData scouting: mapping and assessment of data sources for rapid risk assessment, globally and with a regional focus.\nSituation reports: streamlined production, soon published on a public Git page (this site).\nHorizon scanning: online media data integrated for early detection of emerging threats."
+  },
+  {
+    "objectID": "epiq/index.html#technical-material",
+    "href": "epiq/index.html#technical-material",
+    "title": "EPIQ",
+    "section": "Technical material",
+    "text": "Technical material\n\n\n\n  \n    \n      Report\n      In progress\n    \n    Disease situation reports\n    Streamlined production of disease situation reports, soon published openly on this site.\n    \n      EPIQ\n      \n       epiq-situation-reports\n      \n      \n    \n  \n\n  \n    \n      Dataset\n      In progress\n    \n    Data scouting catalogue\n    Mapping and assessment of data sources for rapid risk assessment, globally and with a regional focus.\n    \n      EPIQ\n      \n       epiq-data-scouting\n      \n      \n    \n  \n\n  \n    \n      Code\n      In progress\n    \n    Online media horizon scanning\n    Integration of online media signals for horizon scanning of emerging threats.\n    \n      EPIQ\n      \n       epiq-horizon-scanning\n      \n      \n    \n  \n\n  \n    \n      Code\n      Planned\n    \n    Model-based risk assessment toolkit\n    From event detection to trends, foresight and modelling: reusable models supporting WOAH risk assessments.\n    \n      EPIQ\n      \n       epiq-risk-models\n      \n      to confirm\n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "epiq/index.html#partners",
+    "href": "epiq/index.html#partners",
+    "title": "EPIQ",
+    "section": "Partners",
+    "text": "Partners\n\n\nECDC DS4PHI network\nEFSA Animal Health\nFAO Animal Health\nFAO ICT One Health\nWHO Hub for Pandemic and Epidemic Intelligence (EIOS core team)\nDSQE Collaborating Centres network\nPREZODE\nIDAlert consortium\nLD4D consortium (University of Edinburgh)\nUniversity of Milan\nENETWILD consortium"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "All technical material",
+    "section": "",
+    "text": "Everything listed here lives in public repositories of the Data-Integration-Department-WOAH GitHub organisation. Items marked In progress or Planned show the proposed repository name.\n\n\n    \n      \n      \n    \n\n\n\n  \n    \n      Report\n      Available\n    \n    Observatory annual report\n    Yearly analysis of how Members implement WOAH standards, with recommendations.\n    \n      Observatory\n      \n      \n      \n      to confirm\n    \n  \n\n  \n    \n      Report\n      Available\n    \n    Thematic studies\n    Ad-hoc studies on the implementation of specific WOAH standards, based on data collected from Members.\n    \n      Observatory\n      \n      \n      \n      to confirm\n    \n  \n\n  \n    \n      Code\n      In progress\n    \n    Routine reporting pipeline\n    Reproducible pipeline for regular Observatory outputs. Routine reporting planned within the next 6 months.\n    \n      Observatory\n      \n       obs-routine-reporting\n      \n      \n    \n  \n\n  \n    \n      Code\n      In progress\n    \n    FAOLEX legislation analysis with AI\n    AI-supported exploitation of the FAOLEX database of national legislation, to monitor adoption of WOAH standards.\n    \n      Observatory\n      \n       obs-faolex-ai\n      \n      \n    \n  \n\n  \n    \n      Dataset\n      Planned\n    \n    Observatory indicators dataset\n    Curated indicators of standards implementation, documented and citable through a DOI.\n    \n      Observatory\n      \n       obs-indicators\n      \n      to confirm\n    \n  \n\n  \n    \n      Report\n      In progress\n    \n    Disease situation reports\n    Streamlined production of disease situation reports, soon published openly on this site.\n    \n      EPIQ\n      \n       epiq-situation-reports\n      \n      \n    \n  \n\n  \n    \n      Dataset\n      In progress\n    \n    Data scouting catalogue\n    Mapping and assessment of data sources for rapid risk assessment, globally and with a regional focus.\n    \n      EPIQ\n      \n       epiq-data-scouting\n      \n      \n    \n  \n\n  \n    \n      Code\n      In progress\n    \n    Online media horizon scanning\n    Integration of online media signals for horizon scanning of emerging threats.\n    \n      EPIQ\n      \n       epiq-horizon-scanning\n      \n      \n    \n  \n\n  \n    \n      Code\n      Planned\n    \n    Model-based risk assessment toolkit\n    From event detection to trends, foresight and modelling: reusable models supporting WOAH risk assessments.\n    \n      EPIQ\n      \n       epiq-risk-models\n      \n      to confirm\n    \n  \n\n  \n    \n      Report\n      Planned\n    \n    Economic impact of animal diseases: literature and methods review\n    Working paper reviewing methods to quantify the economic burden of animal diseases.\n    \n      AH Econometrics\n      \n       ahe-methods-review\n      \n      to confirm\n    \n  \n\n  \n    \n      Code\n      Planned\n    \n    Econometric models of animal health\n    Research code developed with the Roslin Institute PhD project.\n    \n      AH Econometrics\n      \n       ahe-models\n      \n      to confirm\n    \n  \n\n  \n    \n      Dataset\n      Planned\n    \n    Trade and animal health panel dataset\n    Panel combining disease status and trade flows, prepared for econometric analysis.\n    \n      AH Econometrics\n      \n       ahe-trade-panel\n      \n      to confirm\n    \n  \n\n  \n    \n      Dataset\n      In progress\n    \n    Master datasets: countries, diseases, disease status\n    One reference version for the whole Organisation, citable through DOIs and served through the API. Glossary forthcoming.\n    \n      Data Science Lab\n      \n       dsl-master-datasets\n      \n      to confirm\n    \n  \n\n  \n    \n      Code\n      Available\n    \n    WOAH style for R (woah-style)\n    R package with the WOAH colour palette and style guide features for consistent charts and reports.\n    \n      Data Science Lab\n       repository\n      \n      \n      \n    \n  \n\n  \n    \n      App\n      Available\n    \n    QueryStandards\n    An app to query PDF documents such as the WOAH Codes and Manuals.\n    \n      Data Science Lab\n       repository\n      \n      \n      \n    \n  \n\n  \n    \n      Training\n      Available\n    \n    AI, a 15 minute tour\n    A short introduction to AI for WOAH staff.\n    \n      Data Science Lab\n       repository\n      \n      \n      \n    \n  \n\n  \n    \n      Training\n      Available\n    \n    Data science training\n    Public training material in data science.\n    \n      Data Science Lab\n       repository\n      \n      \n      \n    \n  \n\n  \n    \n      Event\n      Available\n    \n    WOAH Datathon 2026\n    International datathon on animal health data science: surveillance, risk, trade and impact assessment.\n    \n      Data Science Lab\n       repository\n      \n      \n      \n    \n  \n\n  \n    \n      Project\n      Planned\n    \n    WOAH data for AI assistants (MCP)\n    Project to make WOAH data directly queryable by large language models through the Model Context Protocol.\n    \n      Data Science Lab\n      \n       dsl-woah-mcp\n      \n      \n    \n  \n\n  \n    \n      App\n      Available\n    \n    Translation app\n    Internal application for AI-assisted translation of WOAH documents.\n    \n      Data Science Lab\n      \n      \n      \n      to confirm\n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "econometrics/index.html",
+    "href": "econometrics/index.html",
+    "title": "Animal Health Econometrics",
+    "section": "",
+    "text": "The Animal Health Econometrics group resumed its activity this year. Its work is currently carried by external researchers, including a PhD project hosted at the Roslin Institute, University of Edinburgh.\nto confirm Proposed scope: quantitative analysis of the economic impact of animal diseases and of the interplay between animal health, trade and policy, building on WOAH and partner data."
+  },
+  {
+    "objectID": "econometrics/index.html#mission",
+    "href": "econometrics/index.html#mission",
+    "title": "Animal Health Econometrics",
+    "section": "",
+    "text": "The Animal Health Econometrics group resumed its activity this year. Its work is currently carried by external researchers, including a PhD project hosted at the Roslin Institute, University of Edinburgh.\nto confirm Proposed scope: quantitative analysis of the economic impact of animal diseases and of the interplay between animal health, trade and policy, building on WOAH and partner data."
+  },
+  {
+    "objectID": "econometrics/index.html#research-directions-to-confirm",
+    "href": "econometrics/index.html#research-directions-to-confirm",
+    "title": "Animal Health Econometrics",
+    "section": "Research directions to confirm",
+    "text": "Research directions to confirm\n\n\nBurden of disease\nMethods and estimates of the economic losses caused by animal diseases.\n\n\nTrade and animal health\nHow disease events and status changes affect trade flows.\n\n\nValue of surveillance\nEvidence on the return of investments in Veterinary Services and surveillance."
+  },
+  {
+    "objectID": "econometrics/index.html#technical-material",
+    "href": "econometrics/index.html#technical-material",
+    "title": "Animal Health Econometrics",
+    "section": "Technical material",
+    "text": "Technical material\n\n\n\n  \n    \n      Report\n      Planned\n    \n    Economic impact of animal diseases: literature and methods review\n    Working paper reviewing methods to quantify the economic burden of animal diseases.\n    \n      AH Econometrics\n      \n       ahe-methods-review\n      \n      to confirm\n    \n  \n\n  \n    \n      Code\n      Planned\n    \n    Econometric models of animal health\n    Research code developed with the Roslin Institute PhD project.\n    \n      AH Econometrics\n      \n       ahe-models\n      \n      to confirm\n    \n  \n\n  \n    \n      Dataset\n      Planned\n    \n    Trade and animal health panel dataset\n    Panel combining disease status and trade flows, prepared for econometric analysis.\n    \n      AH Econometrics\n      \n       ahe-trade-panel\n      \n      to confirm\n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "econometrics/index.html#partners",
+    "href": "econometrics/index.html#partners",
+    "title": "Animal Health Econometrics",
+    "section": "Partners",
+    "text": "Partners\n\n\nRoslin Institute, University of Edinburgh\nAutonomous University of Barcelona, Animal Health Department\n\n\n\nInterested in collaborating? The group welcomes research partnerships on animal health economics. Write to diad @ woah . org with subject line “AH Econometrics”."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About DIAD",
+    "section": "",
+    "text": "DIAD turns WOAH data into evidence and advice. It is organised in three business teams and one transversal team:\n\nThe Observatory monitors the implementation of WOAH standards by Members.\nEPIQ, the EPIdemiology & Quantitative intelligence group, runs epidemic intelligence and risk analytics.\nAnimal Health Econometrics studies the economics of animal health.\nThe Data Science Lab provides data products, pipelines, automation and AI to all of WOAH."
+  },
+  {
+    "objectID": "about.html#the-department",
+    "href": "about.html#the-department",
+    "title": "About DIAD",
+    "section": "",
+    "text": "DIAD turns WOAH data into evidence and advice. It is organised in three business teams and one transversal team:\n\nThe Observatory monitors the implementation of WOAH standards by Members.\nEPIQ, the EPIdemiology & Quantitative intelligence group, runs epidemic intelligence and risk analytics.\nAnimal Health Econometrics studies the economics of animal health.\nThe Data Science Lab provides data products, pipelines, automation and AI to all of WOAH."
+  },
+  {
+    "objectID": "about.html#diad-in-the-woah-data-strategy",
+    "href": "about.html#diad-in-the-woah-data-strategy",
+    "title": "About DIAD",
+    "section": "DIAD in the WOAH data strategy",
+    "text": "DIAD in the WOAH data strategy\nDIAD leads the data side of the WOAH data strategy, from collection to external sharing.\n\n\n\n\n\n\n\nStep\nWhere we are going\n\n\n\n\nCollect\nIncrease the quality and coverage of officially reported data. Make automated online media monitoring and data scouting part of routine rapid risk assessment.\n\n\nCurate\nComplete the glossary, with DOIs.\n\n\nAnalyse\nPublish situation reports openly. Leverage our network of collaborators to create value from WOAH data.\n\n\nShare internally\nBring all technical datasets onto Fabric, with ownership kept by departments.\n\n\nShare externally\nMaster datasets available through the API. MCP project for AI access.\n\n\n\nThese objectives contribute to three outcomes of WOAH’s 8th Strategic Plan: standards adaptable to all Members; decision-making to tackle global challenges; and leadership in animal health data."
+  },
+  {
+    "objectID": "about.html#how-this-site-works",
+    "href": "about.html#how-this-site-works",
+    "title": "About DIAD",
+    "section": "How this site works",
+    "text": "How this site works\n\nEach piece of technical material lives in its own public repository of the Data-Integration-Department-WOAH organisation.\nThis site is built with Quarto and published on GitHub Pages.\nReuse of WOAH data should cite WOAH as the source."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About DIAD",
+    "section": "Contact",
+    "text": "Contact\nWrite to diad @ woah . org."
+  },
+  {
+    "objectID": "observatory/index.html",
+    "href": "observatory/index.html",
+    "title": "The Observatory",
+    "section": "",
+    "text": "The Observatory monitors the uptake of WOAH international standards by Members and formulates recommendations to improve them and their implementation. Its data come from Members through the official channel, mainly through ad-hoc Thematic Studies, and increasingly from complementary sources such as national legislation.\n\n\nOfficial Data reported by Members through thematic studies\n\n\nFAOLEX National legislation, exploited with AI support\n\n\n6 months Horizon for routine reporting"
+  },
+  {
+    "objectID": "observatory/index.html#mission",
+    "href": "observatory/index.html#mission",
+    "title": "The Observatory",
+    "section": "",
+    "text": "The Observatory monitors the uptake of WOAH international standards by Members and formulates recommendations to improve them and their implementation. Its data come from Members through the official channel, mainly through ad-hoc Thematic Studies, and increasingly from complementary sources such as national legislation.\n\n\nOfficial Data reported by Members through thematic studies\n\n\nFAOLEX National legislation, exploited with AI support\n\n\n6 months Horizon for routine reporting"
+  },
+  {
+    "objectID": "observatory/index.html#where-we-are-going",
+    "href": "observatory/index.html#where-we-are-going",
+    "title": "The Observatory",
+    "section": "Where we are going",
+    "text": "Where we are going\nThe Observatory works at capacity and is moving towards sharper, more targeted and more robust output.\n\n\nRoutine reporting\nRegular, reproducible outputs replacing one-off production, planned within the next 6 months.\n\n\nPrescriptive analysis\nFrom describing implementation gaps to recommending actions Members and WOAH can take.\n\n\nDiversified data sources\nNew sources beyond thematic studies, including AI-supported analysis of the FAOLEX legislation database."
+  },
+  {
+    "objectID": "observatory/index.html#technical-material",
+    "href": "observatory/index.html#technical-material",
+    "title": "The Observatory",
+    "section": "Technical material",
+    "text": "Technical material\n\n\n\n  \n    \n      Report\n      Available\n    \n    Observatory annual report\n    Yearly analysis of how Members implement WOAH standards, with recommendations.\n    \n      Observatory\n      \n      \n      \n      to confirm\n    \n  \n\n  \n    \n      Report\n      Available\n    \n    Thematic studies\n    Ad-hoc studies on the implementation of specific WOAH standards, based on data collected from Members.\n    \n      Observatory\n      \n      \n      \n      to confirm\n    \n  \n\n  \n    \n      Code\n      In progress\n    \n    Routine reporting pipeline\n    Reproducible pipeline for regular Observatory outputs. Routine reporting planned within the next 6 months.\n    \n      Observatory\n      \n       obs-routine-reporting\n      \n      \n    \n  \n\n  \n    \n      Code\n      In progress\n    \n    FAOLEX legislation analysis with AI\n    AI-supported exploitation of the FAOLEX database of national legislation, to monitor adoption of WOAH standards.\n    \n      Observatory\n      \n       obs-faolex-ai\n      \n      \n    \n  \n\n  \n    \n      Dataset\n      Planned\n    \n    Observatory indicators dataset\n    Curated indicators of standards implementation, documented and citable through a DOI.\n    \n      Observatory\n      \n       obs-indicators\n      \n      to confirm\n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "observatory/index.html#partners",
+    "href": "observatory/index.html#partners",
+    "title": "The Observatory",
+    "section": "Partners",
+    "text": "Partners\n\n\nWTO SPS Committee\nOECD Public Governance Directorate\nOECD Paris-based Network of Evaluators\nIPPC\nCodex Alimentarius\n\n\nMore on the Observatory at woah.org."
+  },
+  {
+    "objectID": "dslab/index.html",
+    "href": "dslab/index.html",
+    "title": "Data Science Lab",
+    "section": "",
+    "text": "The DS Lab is DIAD’s transversal team. It builds the data foundations that the three business teams, and other WOAH departments, rely on: data products on Microsoft Fabric, data management and analytics pipelines, process automation and ad-hoc analyses. It also spearheads AI adoption across the Organisation."
+  },
+  {
+    "objectID": "dslab/index.html#mission",
+    "href": "dslab/index.html#mission",
+    "title": "Data Science Lab",
+    "section": "",
+    "text": "The DS Lab is DIAD’s transversal team. It builds the data foundations that the three business teams, and other WOAH departments, rely on: data products on Microsoft Fabric, data management and analytics pipelines, process automation and ad-hoc analyses. It also spearheads AI adoption across the Organisation."
+  },
+  {
+    "objectID": "dslab/index.html#what-we-build",
+    "href": "dslab/index.html#what-we-build",
+    "title": "Data Science Lab",
+    "section": "What we build",
+    "text": "What we build\n\n\nMaster datasets\nCountries, diseases and disease status (glossary forthcoming): one reference version for all of WOAH, citable through DOIs.\n\n\nAPIs for programs\nMaster datasets made available to programs through an API, with no human in the loop.\n\n\nData for AI (MCP)\nA project to make WOAH data directly queryable by AI assistants through the Model Context Protocol.\n\n\nAI adoption\nTools such as a translation app and a standards query app, and an MSc-AI internship programme scaling AI into daily use.\n\n\nOne platform\nMicrosoft Fabric Lakehouses as the single storage platform, with ownership kept by technical departments.\n\n\n\nAccess WOAH data\n\n\n\n\n\n\n\n\nWho\nChannel\nWhat\n\n\n\n\nPrograms\nAPI, no human in the loop\nMaster datasets: in progress\n\n\nAI assistants\nMCP (project)\nWOAH data queryable by large language models"
+  },
+  {
+    "objectID": "dslab/index.html#technical-material",
+    "href": "dslab/index.html#technical-material",
+    "title": "Data Science Lab",
+    "section": "Technical material",
+    "text": "Technical material\n\n\n\n  \n    \n      Dataset\n      In progress\n    \n    Master datasets: countries, diseases, disease status\n    One reference version for the whole Organisation, citable through DOIs and served through the API. Glossary forthcoming.\n    \n      Data Science Lab\n      \n       dsl-master-datasets\n      \n      to confirm\n    \n  \n\n  \n    \n      Code\n      Available\n    \n    WOAH style for R (woah-style)\n    R package with the WOAH colour palette and style guide features for consistent charts and reports.\n    \n      Data Science Lab\n       repository\n      \n      \n      \n    \n  \n\n  \n    \n      App\n      Available\n    \n    QueryStandards\n    An app to query PDF documents such as the WOAH Codes and Manuals.\n    \n      Data Science Lab\n       repository\n      \n      \n      \n    \n  \n\n  \n    \n      Training\n      Available\n    \n    AI, a 15 minute tour\n    A short introduction to AI for WOAH staff.\n    \n      Data Science Lab\n       repository\n      \n      \n      \n    \n  \n\n  \n    \n      Training\n      Available\n    \n    Data science training\n    Public training material in data science.\n    \n      Data Science Lab\n       repository\n      \n      \n      \n    \n  \n\n  \n    \n      Event\n      Available\n    \n    WOAH Datathon 2026\n    International datathon on animal health data science: surveillance, risk, trade and impact assessment.\n    \n      Data Science Lab\n       repository\n      \n      \n      \n    \n  \n\n  \n    \n      Project\n      Planned\n    \n    WOAH data for AI assistants (MCP)\n    Project to make WOAH data directly queryable by large language models through the Model Context Protocol.\n    \n      Data Science Lab\n      \n       dsl-woah-mcp\n      \n      \n    \n  \n\n  \n    \n      App\n      Available\n    \n    Translation app\n    Internal application for AI-assisted translation of WOAH documents.\n    \n      Data Science Lab\n      \n      \n      \n      to confirm\n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "dslab/index.html#partners",
+    "href": "dslab/index.html#partners",
+    "title": "Data Science Lab",
+    "section": "Partners",
+    "text": "Partners\n\n\nDSQE Collaborating Centres network (the Data Swarm)\nInternational Institute for Zoonosis Control, Hokkaido University\nHankuk University of Foreign Studies, Seoul"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Integration& Analytics Department",
+    "section": "",
+    "text": "World Organisation for Animal Health\n    Data Integration& Analytics Department\n    Technical material produced by DIAD: reports, code, datasets, models and training\n    that turn animal health data into evidence and advice.\n    Browse all material\n    About the department\n  \n\n\n\n\nOur four areas\n\n  \n    OBS\n    \n      Business team\n      The Observatory\n      Monitors how Members implement WOAH standards and formulates recommendations.\n      Observatory material\n    \n  \n  \n    EPIQ\n    \n      EPIQ · Business team\n      Epidemiology & Quantitative Intelligence\n      Situation reports, surveillance data integration and model-based risk intelligence.\n      EPIQ material\n    \n  \n  \n    AHE\n    \n      Business team\n      Animal Health Econometrics\n      Quantifying the economic side of animal health, with academic partners.\n      Econometrics material\n    \n  \n  \n    DSL\n    \n      DS Lab · Transversal\n      Data Science Lab\n      Data products, master datasets, APIs, automation and AI adoption across WOAH.\n      DS Lab material\n    \n  \n\n\nRecently published\n\n\n\n\n\n  \n    \n      Report\n      Available\n    \n    Observatory annual report\n    Yearly analysis of how Members implement WOAH standards, with recommendations.\n    \n      Observatory\n      \n      \n      \n      to confirm\n    \n  \n\n  \n    \n      Report\n      Available\n    \n    Thematic studies\n    Ad-hoc studies on the implementation of specific WOAH standards, based on data collected from Members.\n    \n      Observatory\n      \n      \n      \n      to confirm\n    \n  \n\n  \n    \n      Code\n      Available\n    \n    WOAH style for R (woah-style)\n    R package with the WOAH colour palette and style guide features for consistent charts and reports.\n    \n      Data Science Lab\n       repository\n      \n      \n      \n    \n  \n\n  \n    \n      App\n      Available\n    \n    QueryStandards\n    An app to query PDF documents such as the WOAH Codes and Manuals.\n    \n      Data Science Lab\n       repository\n      \n      \n      \n    \n  \n\n  \n    \n      Training\n      Available\n    \n    AI, a 15 minute tour\n    A short introduction to AI for WOAH staff.\n    \n      Data Science Lab\n       repository\n      \n      \n      \n    \n  \n\n  \n    \n      Training\n      Available\n    \n    Data science training\n    Public training material in data science.\n    \n      Data Science Lab\n       repository\n      \n      \n      \n    \n  \n\n\nNo matching items\n\nSee all material →\n\n\n\n  \n  \n    The Data Swarm\n    DIAD works with the DSQE network, WOAH's network of data scientists: seven WOAH Collaborating Centres\n    in six countries, plus academic partners in Japan, South Korea, the United Kingdom and Spain.\n    Meet the network"
+  }
+]

@@ -1,0 +1,50 @@
+meta:
+  name:
+    short: WOAH
+    full: World Organisation for Animal Health
+  link:
+    home: https://www.woah.org
+
+logo:
+  small: assets/logos/woah-logo-colour.png
+  medium: assets/logos/woah-logo-colour.png
+
+# Palette from the woah-style R package (Data-Integration-Department-WOAH/woah-style)
+color:
+  palette:
+    orange: "#FF4815"
+    dark-grey: "#27282A"
+    mid-grey: "#565759"
+    beige: "#EFEEE8"
+    beige-light: "#F8F7F1"
+    aquatic-blue: "#203CA9"      # Only for Aquatic Code and Manual
+    terrestrial-green: "#009D5E" # Only for Terrestrial Code and Manual
+    pastel-blue: "#DCE9F4"       # Backgrounds only, never text
+    pastel-yellow: "#FFF2CE"     # Backgrounds only, never text
+    pastel-pink: "#FFE7F0"       # Backgrounds only, never text
+    pastel-green: "#DDF3E6"      # Backgrounds only, never text
+  primary: orange
+  secondary: dark-grey
+  foreground: dark-grey
+  background: beige-light
+
+typography:
+  # The official WOAH typeface (Söhne / Söhne Schmal) is proprietary.
+  # Google Fonts stand-ins: Barlow Condensed ~ Söhne Schmal, Inter ~ Söhne.
+  fonts:
+    - family: Inter
+      source: google
+      weight: [400, 500, 600]
+    - family: Barlow Condensed
+      source: google
+      weight: [500, 600, 700]
+  base:
+    family: Inter
+    size: 16px
+    line-height: 1.6
+  headings:
+    family: Barlow Condensed
+    weight: 600
+    color: orange
+  link:
+    color: orange

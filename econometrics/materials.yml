@@ -1,0 +1,24 @@
+- title: "Economic impact of animal diseases: literature and methods review"
+  type: Report
+  area: AH Econometrics
+  status: Planned
+  categories: [Report, Economics]
+  description: "Working paper reviewing methods to quantify the economic burden of animal diseases."
+  proposed: ahe-methods-review
+  todo: true
+- title: "Econometric models of animal health"
+  type: Code
+  area: AH Econometrics
+  status: Planned
+  categories: [Code, Economics]
+  description: "Research code developed with the Roslin Institute PhD project."
+  proposed: ahe-models
+  todo: true
+- title: "Trade and animal health panel dataset"
+  type: Dataset
+  area: AH Econometrics
+  status: Planned
+  categories: [Dataset, Economics, Trade]
+  description: "Panel combining disease status and trade flows, prepared for econometric analysis."
+  proposed: ahe-trade-panel
+  todo: true

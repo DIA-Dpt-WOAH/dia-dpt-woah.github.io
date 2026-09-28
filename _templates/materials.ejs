@@ -1,0 +1,24 @@
+```{=html}
+<div class="list material-grid">
+<% for (const item of items) {
+     const status = (item.status || 'available').toLowerCase().replace(/\s+/g, '-');
+     const link = item.link || item.repo || '#';
+%>
+  <div class="material status-<%= status %>" <%= metadataAttrs(item) %>>
+    <div class="mtype">
+      <span><%= item.type %></span>
+      <span class="status"><%= item.status || 'Available' %></span>
+    </div>
+    <h4><a href="<%- link %>" class="listing-title"><%= item.title %></a></h4>
+    <p class="listing-description"><%= item.description %></p>
+    <div class="mfoot">
+      <% if (item.area) { %><span class="area-badge"><%= item.area %></span><% } %>
+      <% if (item.repo) { %><a href="<%- item.repo %>"><i class="bi bi-github"></i> repository</a><% } %>
+      <% if (item.proposed) { %><span title="Proposed repository name"><i class="bi bi-github"></i> <code><%= item.proposed %></code></span><% } %>
+      <% if (item.doi) { %><a href="<%- item.doi %>"><i class="bi bi-link-45deg"></i> DOI</a><% } %>
+      <% if (item.todo) { %><span class="todo-tag">to confirm</span><% } %>
+    </div>
+  </div>
+<% } %>
+</div>
+```

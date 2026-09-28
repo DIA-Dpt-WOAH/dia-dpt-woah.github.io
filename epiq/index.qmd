@@ -1,0 +1,62 @@
+---
+title: "EPIQ"
+subtitle: "The EPIdemiology & Quantitative intelligence group: from detecting events to anticipating risks and supporting decisions."
+title-block-banner: "#FFE7F0"
+title-block-banner-color: "#27282A"
+listing:
+  id: epiq-materials
+  contents: materials.yml
+  template: ../_templates/materials.ejs
+  sort: false
+  categories: true
+---
+
+## Mission
+
+EPIQ carries WOAH's epidemic intelligence and much more: disease situation reports, ad-hoc analyses and the integration of surveillance data. It combines **official data** reported by Members with **non-official sources** scouted by WOAH, such as online media and data sources identified for rapid risk assessment.
+
+## Where we are going
+
+::: {.features}
+::: {.feature}
+#### Integrated intelligence
+Official and non-official data, unified across WOAH.
+:::
+::: {.feature}
+#### Anticipatory risk intelligence
+From event detection to trends, foresight and modelling.
+:::
+::: {.feature}
+#### Decision support, at scale
+Feeding WOAH risk assessments, powered by automation and AI.
+:::
+:::
+
+::: {.band .pink}
+### Highlights of the year
+
+- **Data scouting**: mapping and assessment of data sources for rapid risk assessment, globally and with a regional focus.
+- **Situation reports**: streamlined production, soon published on a public Git page (this site).
+- **Horizon scanning**: online media data integrated for early detection of emerging threats.
+:::
+
+## Technical material
+
+::: {#epiq-materials}
+:::
+
+## Partners
+
+::: {.chips}
+- ECDC DS4PHI network
+- EFSA Animal Health
+- FAO Animal Health
+- FAO ICT One Health
+- WHO Hub for Pandemic and Epidemic Intelligence (EIOS core team)
+- DSQE Collaborating Centres network
+- PREZODE
+- IDAlert consortium
+- LD4D consortium (University of Edinburgh)
+- University of Milan
+- ENETWILD consortium
+:::

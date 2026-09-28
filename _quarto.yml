@@ -1,0 +1,66 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - assets/
+
+website:
+  title: "DIAD · Technical material"
+  site-url: https://data-integration-department-woah.github.io/
+  repo-url: https://github.com/Data-Integration-Department-WOAH/data-integration-department-woah.github.io
+  repo-actions: [source, issue]
+  description: "Technical material produced by the Data Integration & Analytics Department of the World Organisation for Animal Health (WOAH)."
+  favicon: assets/logos/woah-emblem.png
+  announcement:
+    icon: pencil-square
+    dismissable: false
+    content: "**Mock-up for internal review.** Structure and texts are drafts; items tagged <span class='todo-tag'>to confirm</span> are placeholders."
+    type: warning
+    position: below-navbar
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    logo: assets/logos/woah-emblem.png
+    logo-alt: "World Organisation for Animal Health"
+    title: "Data Integration & Analytics"
+    left:
+      - text: "Observatory"
+        href: observatory/index.qmd
+      - text: "EPIQ"
+        href: epiq/index.qmd
+      - text: "AH Econometrics"
+        href: econometrics/index.qmd
+      - text: "Data Science Lab"
+        href: dslab/index.qmd
+    right:
+      - text: "All material"
+        href: resources.qmd
+      - text: "Network"
+        href: network.qmd
+      - text: "About"
+        href: about.qmd
+      - icon: github
+        href: https://github.com/orgs/Data-Integration-Department-WOAH/repositories
+        aria-label: "GitHub organisation"
+  page-footer:
+    background: "#27282A"
+    left: |
+      © World Organisation for Animal Health (WOAH) · Data Integration & Analytics Department
+    center: |
+      [woah.org](https://www.woah.org) · [GitHub](https://github.com/orgs/Data-Integration-Department-WOAH/repositories)
+    right: |
+      Built with [Quarto](https://quarto.org), hosted on GitHub Pages
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+      - styles.scss
+    toc: true
+    toc-title: "On this page"
+    toc-location: right
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true

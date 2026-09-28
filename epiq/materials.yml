@@ -1,0 +1,29 @@
+- title: "Disease situation reports"
+  type: Report
+  area: EPIQ
+  status: In progress
+  categories: [Report, Epidemic intelligence]
+  description: "Streamlined production of disease situation reports, soon published openly on this site."
+  proposed: epiq-situation-reports
+- title: "Data scouting catalogue"
+  type: Dataset
+  area: EPIQ
+  status: In progress
+  categories: [Dataset, Rapid risk assessment]
+  description: "Mapping and assessment of data sources for rapid risk assessment, globally and with a regional focus."
+  proposed: epiq-data-scouting
+- title: "Online media horizon scanning"
+  type: Code
+  area: EPIQ
+  status: In progress
+  categories: [Code, Epidemic intelligence, AI]
+  description: "Integration of online media signals for horizon scanning of emerging threats."
+  proposed: epiq-horizon-scanning
+- title: "Model-based risk assessment toolkit"
+  type: Code
+  area: EPIQ
+  status: Planned
+  categories: [Code, Modelling, Rapid risk assessment]
+  description: "From event detection to trends, foresight and modelling: reusable models supporting WOAH risk assessments."
+  proposed: epiq-risk-models
+  todo: true

@@ -1,0 +1,38 @@
+- title: "Observatory annual report"
+  type: Report
+  area: Observatory
+  status: Available
+  categories: [Report, Standards implementation]
+  description: "Yearly analysis of how Members implement WOAH standards, with recommendations."
+  link: https://www.woah.org/en/what-we-do/standards/observatory/
+  todo: true
+- title: "Thematic studies"
+  type: Report
+  area: Observatory
+  status: Available
+  categories: [Report, Standards implementation]
+  description: "Ad-hoc studies on the implementation of specific WOAH standards, based on data collected from Members."
+  link: https://www.woah.org/en/what-we-do/standards/observatory/
+  todo: true
+- title: "Routine reporting pipeline"
+  type: Code
+  area: Observatory
+  status: In progress
+  categories: [Code, Reproducible reporting]
+  description: "Reproducible pipeline for regular Observatory outputs. Routine reporting planned within the next 6 months."
+  proposed: obs-routine-reporting
+- title: "FAOLEX legislation analysis with AI"
+  type: Code
+  area: Observatory
+  status: In progress
+  categories: [Code, AI, Legal data]
+  description: "AI-supported exploitation of the FAOLEX database of national legislation, to monitor adoption of WOAH standards."
+  proposed: obs-faolex-ai
+- title: "Observatory indicators dataset"
+  type: Dataset
+  area: Observatory
+  status: Planned
+  categories: [Dataset, Standards implementation]
+  description: "Curated indicators of standards implementation, documented and citable through a DOI."
+  proposed: obs-indicators
+  todo: true

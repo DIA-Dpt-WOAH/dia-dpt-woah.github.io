@@ -1,0 +1,51 @@
+---
+title: "Animal Health Econometrics"
+subtitle: "Putting numbers on the economic side of animal health, with academic partners."
+title-block-banner: "#FFF2CE"
+title-block-banner-color: "#27282A"
+listing:
+  id: ahe-materials
+  contents: materials.yml
+  template: ../_templates/materials.ejs
+  sort: false
+  categories: true
+---
+
+## Mission
+
+The Animal Health Econometrics group resumed its activity this year. Its work is currently carried by external researchers, including a PhD project hosted at the Roslin Institute, University of Edinburgh.
+
+[to confirm]{.todo} Proposed scope: quantitative analysis of the economic impact of animal diseases and of the interplay between animal health, trade and policy, building on WOAH and partner data.
+
+## Research directions [to confirm]{.todo}
+
+::: {.features}
+::: {.feature}
+#### Burden of disease
+Methods and estimates of the economic losses caused by animal diseases.
+:::
+::: {.feature}
+#### Trade and animal health
+How disease events and status changes affect trade flows.
+:::
+::: {.feature}
+#### Value of surveillance
+Evidence on the return of investments in Veterinary Services and surveillance.
+:::
+:::
+
+## Technical material
+
+::: {#ahe-materials}
+:::
+
+## Partners
+
+::: {.chips}
+- Roslin Institute, University of Edinburgh
+- Autonomous University of Barcelona, Animal Health Department
+:::
+
+::: {.band .yellow}
+**Interested in collaborating?** The group welcomes research partnerships on animal health economics. Write to **diad @ woah . org** with subject line "AH Econometrics".
+:::

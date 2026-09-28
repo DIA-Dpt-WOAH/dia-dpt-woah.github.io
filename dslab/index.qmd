@@ -1,0 +1,63 @@
+---
+title: "Data Science Lab"
+subtitle: "Transversal support: bringing WOAH into the 21st century, data-wise."
+title-block-banner: "#DDF3E6"
+title-block-banner-color: "#27282A"
+listing:
+  id: dsl-materials
+  contents: materials.yml
+  template: ../_templates/materials.ejs
+  sort: false
+  categories: true
+---
+
+## Mission
+
+The DS Lab is DIAD's transversal team. It builds the data foundations that the three business teams, and other WOAH departments, rely on: data products on Microsoft Fabric, data management and analytics pipelines, process automation and ad-hoc analyses. It also spearheads AI adoption across the Organisation.
+
+## What we build
+
+::: {.features}
+::: {.feature}
+#### Master datasets
+Countries, diseases and disease status (glossary forthcoming): one reference version for all of WOAH, citable through DOIs.
+:::
+::: {.feature}
+#### APIs for programs
+Master datasets made available to programs through an API, with no human in the loop.
+:::
+::: {.feature}
+#### Data for AI (MCP)
+A project to make WOAH data directly queryable by AI assistants through the Model Context Protocol.
+:::
+::: {.feature}
+#### AI adoption
+Tools such as a translation app and a standards query app, and an MSc-AI internship programme scaling AI into daily use.
+:::
+::: {.feature}
+#### One platform
+Microsoft Fabric Lakehouses as the single storage platform, with ownership kept by technical departments.
+:::
+:::
+
+::: {.band .green}
+### Access WOAH data
+
+| Who | Channel | What |
+|---|---|---|
+| Programs | API, no human in the loop | Master datasets: in progress |
+| AI assistants | MCP (project) | WOAH data queryable by large language models |
+:::
+
+## Technical material
+
+::: {#dsl-materials}
+:::
+
+## Partners
+
+::: {.chips}
+- DSQE Collaborating Centres network (the Data Swarm)
+- International Institute for Zoonosis Control, Hokkaido University
+- Hankuk University of Foreign Studies, Seoul
+:::

@@ -1,0 +1,62 @@
+- title: "Master datasets: countries, diseases, disease status"
+  type: Dataset
+  area: Data Science Lab
+  status: In progress
+  categories: [Dataset, Master data, API]
+  description: "One reference version for the whole Organisation, citable through DOIs and served through the API. Glossary forthcoming."
+  proposed: dsl-master-datasets
+  todo: true
+- title: "WOAH style for R (woah-style)"
+  type: Code
+  area: Data Science Lab
+  status: Available
+  categories: [Code, R, Visualisation]
+  description: "R package with the WOAH colour palette and style guide features for consistent charts and reports."
+  repo: https://github.com/Data-Integration-Department-WOAH/woah-style
+  link: https://github.com/Data-Integration-Department-WOAH/woah-style
+- title: "QueryStandards"
+  type: App
+  area: Data Science Lab
+  status: Available
+  categories: [App, AI, Standards]
+  description: "An app to query PDF documents such as the WOAH Codes and Manuals."
+  repo: https://github.com/Data-Integration-Department-WOAH/QueryStandards
+  link: https://github.com/Data-Integration-Department-WOAH/QueryStandards
+- title: "AI, a 15 minute tour"
+  type: Training
+  area: Data Science Lab
+  status: Available
+  categories: [Training, AI]
+  description: "A short introduction to AI for WOAH staff."
+  repo: https://github.com/Data-Integration-Department-WOAH/AI_intro
+  link: https://github.com/Data-Integration-Department-WOAH/AI_intro
+- title: "Data science training"
+  type: Training
+  area: Data Science Lab
+  status: Available
+  categories: [Training, R]
+  description: "Public training material in data science."
+  repo: https://github.com/Data-Integration-Department-WOAH/DS_Training_pub
+  link: https://data-integration-department-woah.github.io/DS_Training_pub/
+- title: "WOAH Datathon 2026"
+  type: Event
+  area: Data Science Lab
+  status: Available
+  categories: [Event, Community]
+  description: "International datathon on animal health data science: surveillance, risk, trade and impact assessment."
+  repo: https://github.com/Data-Integration-Department-WOAH/WOAH-Datathon
+  link: https://data-integration-department-woah.github.io/WOAH-Datathon/
+- title: "WOAH data for AI assistants (MCP)"
+  type: Project
+  area: Data Science Lab
+  status: Planned
+  categories: [AI, API]
+  description: "Project to make WOAH data directly queryable by large language models through the Model Context Protocol."
+  proposed: dsl-woah-mcp
+- title: "Translation app"
+  type: App
+  area: Data Science Lab
+  status: Available
+  categories: [App, AI]
+  description: "Internal application for AI-assisted translation of WOAH documents."
+  todo: true

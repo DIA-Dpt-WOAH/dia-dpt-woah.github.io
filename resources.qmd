@@ -1,0 +1,22 @@
+---
+title: "All technical material"
+subtitle: "Reports, code, datasets, apps and training from the four DIAD areas. Filter by category or search."
+toc: false
+listing:
+  id: all-materials
+  contents:
+    - observatory/materials.yml
+    - epiq/materials.yml
+    - econometrics/materials.yml
+    - dslab/materials.yml
+  template: _templates/materials.ejs
+  sort: false
+  categories: true
+  filter-ui: true
+  page-size: 30
+---
+
+Everything listed here lives in public repositories of the [Data-Integration-Department-WOAH](https://github.com/orgs/Data-Integration-Department-WOAH/repositories) GitHub organisation. Items marked *In progress* or *Planned* show the proposed repository name.
+
+::: {#all-materials}
+:::
