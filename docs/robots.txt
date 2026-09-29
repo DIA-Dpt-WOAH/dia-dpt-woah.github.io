@@ -1,1 +1,1 @@
-Sitemap: https://gilles-guillot-woah.github.io/diad-woah.github.io/sitemap.xml
+Sitemap: https://diad-woah.github.io/sitemap.xml
