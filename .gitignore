@@ -4,6 +4,7 @@
 
 **/*.quarto_ipynb
 .Rhistory
-.Rdata
+.RData
 .httr-oauth
 .DS_Store
+.Ruserdata
