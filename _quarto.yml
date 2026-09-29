@@ -14,7 +14,7 @@ website:
   announcement:
     icon: pencil-square
     dismissable: false
-    content: "**Mock-up for internal review.** Structure and texts are drafts; items tagged <span class='todo-tag'>to confirm</span> are placeholders."
+    content: "**This is a mock-up for internal review.** Structure and texts are drafts; items tagged <span class='todo-tag'>to confirm</span> are placeholders."
     type: warning
     position: below-navbar
   search:
