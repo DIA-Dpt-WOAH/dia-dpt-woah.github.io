@@ -6,8 +6,8 @@ project:
 
 website:
   title: "DIAD · Technical material"
-  site-url: https://data-integration-department-woah.github.io/
-  repo-url: https://github.com/Data-Integration-Department-WOAH/data-integration-department-woah.github.io
+  site-url: https://gilles-guillot-woah.github.io/diad-woah.github.io/
+  repo-url: https://github.com/gilles-guillot-woah/diad-woah.github.io
   repo-actions: [source, issue]
   description: "Technical material produced by the Data Integration & Analytics Department of the World Organisation for Animal Health (WOAH)."
   favicon: assets/logos/woah-emblem.png

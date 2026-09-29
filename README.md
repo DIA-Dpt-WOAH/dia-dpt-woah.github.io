@@ -43,12 +43,12 @@ quarto preview      # live preview
 quarto render       # builds into docs/ (keep docs/.nojekyll)
 ```
 
-## Publishing set-up (agreed, not done yet)
+## Publishing
 
-- Repo `Data-Integration-Department-WOAH/data-integration-department-woah.github.io`,
-  so the site is served at the organisation root URL
-  `https://data-integration-department-woah.github.io/`.
-- GitHub Pages from `main` / `docs/` (as for the Datathon), or a GitHub Action running `quarto publish gh-pages`.
+- Repo `gilles-guillot-woah/diad-woah.github.io`, served by GitHub Pages at
+  `https://gilles-guillot-woah.github.io/diad-woah.github.io/`.
+- GitHub Pages deploys from branch `main`, folder `/docs` (as for the Datathon).
+  To update the site: `quarto render`, then commit and push, `docs/` included.
 - Material repos named with an area prefix (`obs-`, `epiq-`, `ahe-`, `dsl-`) and tagged with GitHub topics.
   A repo with its own Quarto/pkgdown site is then served at `https://data-integration-department-woah.github.io/<repo>/`.
 

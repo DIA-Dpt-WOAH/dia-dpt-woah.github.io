@@ -1,18 +1,10 @@
 [
   {
-    "listing": "/epiq/index.html",
-    "items": []
-  },
-  {
     "listing": "/resources.html",
     "items": []
   },
   {
-    "listing": "/econometrics/index.html",
-    "items": []
-  },
-  {
-    "listing": "/observatory/index.html",
+    "listing": "/epiq/index.html",
     "items": []
   },
   {
@@ -20,7 +12,15 @@
     "items": []
   },
   {
+    "listing": "/econometrics/index.html",
+    "items": []
+  },
+  {
     "listing": "/index.html",
+    "items": []
+  },
+  {
+    "listing": "/observatory/index.html",
     "items": []
   }
 ]

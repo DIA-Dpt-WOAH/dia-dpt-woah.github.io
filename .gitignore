@@ -3,3 +3,7 @@
 .Rproj.user/
 
 **/*.quarto_ipynb
+.Rhistory
+.Rdata
+.httr-oauth
+.DS_Store
