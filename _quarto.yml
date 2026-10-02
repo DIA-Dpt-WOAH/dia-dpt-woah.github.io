@@ -6,8 +6,8 @@ project:
 
 website:
   title: "DIAD · Technical material"
-  site-url: https://diad-woah.github.io/
-  repo-url: https://github.com/diad-woah/diad-woah.github.io
+  site-url: https://dia-dpt-woah.github.io/
+  repo-url: https://github.com/DIA-Dpt-WOAH/dia-dpt-woah.github.io
   repo-actions: [source, issue]
   description: "Technical material produced by the Data Integration & Analytics Department of the World Organisation for Animal Health (WOAH)."
   favicon: assets/logos/woah-emblem.png

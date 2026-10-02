@@ -45,8 +45,8 @@ quarto render       # builds into docs/ (keep docs/.nojekyll)
 
 ## Publishing
 
-- Repo `diad-woah/diad-woah.github.io`, served by GitHub Pages at the account root URL
-  `https://diad-woah.github.io/`.
+- Repo `DIA-Dpt-WOAH/dia-dpt-woah.github.io`, served by GitHub Pages at the organisation root URL
+  `https://dia-dpt-woah.github.io/`. The repo name must match the organisation name, or Pages serves it under a sub-path.
 - GitHub Pages deploys from branch `main`, folder `/docs` (as for the Datathon).
   To update the site: `quarto render`, then commit and push, `docs/` included.
 - Material repos named with an area prefix (`obs-`, `epiq-`, `ahe-`, `dsl-`) and tagged with GitHub topics.
