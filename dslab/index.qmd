@@ -38,6 +38,10 @@ Tools such as a translation app and a standards query app, and an MSc-AI interns
 #### One platform
 Microsoft Fabric Lakehouses as the single storage platform, with ownership kept by technical departments.
 :::
+::: {.feature}
+#### Datathon
+The [WOAH Datathon 2026](https://dia-dpt-woah.github.io/WOAH-Datathon/) is an international datathon on animal health data science: surveillance, risk, trade and impact assessment.
+:::
 :::
 
 ::: {.band .green}
