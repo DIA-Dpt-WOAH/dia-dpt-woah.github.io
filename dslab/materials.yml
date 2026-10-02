@@ -14,14 +14,6 @@
   description: "R package with the WOAH colour palette and style guide features for consistent charts and reports."
   repo: https://github.com/Data-Integration-Department-WOAH/woah-style
   link: https://github.com/Data-Integration-Department-WOAH/woah-style
-- title: "QueryStandards"
-  type: App
-  area: Data Science Lab
-  status: Available
-  categories: [App, AI, Standards]
-  description: "An app to query PDF documents such as the WOAH Codes and Manuals."
-  repo: https://github.com/Data-Integration-Department-WOAH/QueryStandards
-  link: https://github.com/Data-Integration-Department-WOAH/QueryStandards
 - title: "Data science training"
   type: Training
   area: Data Science Lab
