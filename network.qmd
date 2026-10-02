@@ -28,18 +28,3 @@ The **DSQE network**, aka the Data Swarm, is WOAH's network of data scientists. 
 </tbody>
 </table>
 ```
-
-## Second orbit: academic partners
-
-Individual academic partnerships, outside the formal Collaborating Centre network.
-
-- Hokkaido University, Sapporo, Japan
-- Hankuk University of Foreign Studies, Seoul, South Korea
-
-## Partners by area
-
-![DIAD at the centre, connected to its four areas, each with its external partners.](assets/img/collaborators-map.jpg){fig-alt="Map of DIAD collaborators by area" .lightbox}
-
-::: {.band}
-**Join the network.** WOAH Collaborating Centres and academic groups working on animal health data science can contact DIAD at **diad @ woah . org**.
-:::
