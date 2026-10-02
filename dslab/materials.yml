@@ -22,14 +22,6 @@
   description: "An app to query PDF documents such as the WOAH Codes and Manuals."
   repo: https://github.com/Data-Integration-Department-WOAH/QueryStandards
   link: https://github.com/Data-Integration-Department-WOAH/QueryStandards
-- title: "AI, a 15 minute tour"
-  type: Training
-  area: Data Science Lab
-  status: Available
-  categories: [Training, AI]
-  description: "A short introduction to AI for WOAH staff."
-  repo: https://github.com/Data-Integration-Department-WOAH/AI_intro
-  link: https://github.com/Data-Integration-Department-WOAH/AI_intro
 - title: "Data science training"
   type: Training
   area: Data Science Lab
