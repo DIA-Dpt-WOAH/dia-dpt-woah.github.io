@@ -11,12 +11,12 @@ website:
   repo-actions: [source, issue]
   description: "Technical material produced by the Data Integration & Analytics Department of the World Organisation for Animal Health (WOAH)."
   favicon: assets/logos/woah-emblem.png
-  announcement:
-    icon: pencil-square
-    dismissable: false
-    content: "**This is a mock-up for internal review.** Structure and texts are drafts; items tagged <span class='todo-tag'>to confirm</span> are placeholders."
-    type: warning
-    position: below-navbar
+  # announcement:
+  #   icon: pencil-square
+  #   dismissable: false
+  #   content: "**This is a mock-up for internal review.** Structure and texts are drafts; items tagged <span class='todo-tag'>to confirm</span> are placeholders."
+  #   type: warning
+  #   position: below-navbar
   search:
     location: navbar
     type: overlay
@@ -41,14 +41,14 @@ website:
       - text: "About"
         href: about.qmd
       - icon: github
-        href: https://github.com/orgs/Data-Integration-Department-WOAH/repositories
+        href: https://github.com/DIA-Dpt-WOAH
         aria-label: "GitHub organisation"
   page-footer:
     background: "#27282A"
     left: |
       © World Organisation for Animal Health (WOAH) · Data Integration & Analytics Department
     center: |
-      [woah.org](https://www.woah.org) · [GitHub](https://github.com/orgs/Data-Integration-Department-WOAH/repositories)
+      [woah.org](https://www.woah.org) · [GitHub](https://github.com/DIA-Dpt-WOAH)
     right: |
       Built with [Quarto](https://quarto.org), hosted on GitHub Pages
 

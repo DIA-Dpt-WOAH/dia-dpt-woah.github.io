@@ -16,7 +16,7 @@ listing:
   page-size: 30
 ---
 
-Everything listed here lives in public repositories of the [Data-Integration-Department-WOAH](https://github.com/orgs/Data-Integration-Department-WOAH/repositories) GitHub organisation. Items marked *In progress* or *Planned* show the proposed repository name.
+Everything listed here lives in public repositories of the [DIA-Dpt-WOAH](https://github.com/DIA-Dpt-WOAH) GitHub organisation. Items marked *In progress* or *Planned* show the proposed repository name.
 
 ::: {#all-materials}
 :::

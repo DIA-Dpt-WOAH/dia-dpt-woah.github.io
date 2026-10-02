@@ -12,24 +12,24 @@
   status: Available
   categories: [Code, R, Visualisation]
   description: "R package with the WOAH colour palette and style guide features for consistent charts and reports."
-  repo: https://github.com/Data-Integration-Department-WOAH/woah-style
-  link: https://github.com/Data-Integration-Department-WOAH/woah-style
+  repo: https://github.com/DIA-Dpt-WOAH/woah-style
+  link: https://github.com/DIA-Dpt-WOAH/woah-style
 - title: "Data science training"
   type: Training
   area: Data Science Lab
   status: Available
   categories: [Training, R]
   description: "Public training material in data science."
-  repo: https://github.com/Data-Integration-Department-WOAH/DS_Training_pub
-  link: https://data-integration-department-woah.github.io/DS_Training_pub/
+  repo: https://github.com/DIA-Dpt-WOAH/DS_Training_pub
+  link: https://dia-dpt-woah.github.io/DS_Training_pub/
 - title: "WOAH Datathon 2026"
   type: Event
   area: Data Science Lab
   status: Available
   categories: [Event, Community]
   description: "International datathon on animal health data science: surveillance, risk, trade and impact assessment."
-  repo: https://github.com/Data-Integration-Department-WOAH/WOAH-Datathon
-  link: https://data-integration-department-woah.github.io/WOAH-Datathon/
+  repo: https://github.com/DIA-Dpt-WOAH/WOAH-Datathon
+  link: https://dia-dpt-woah.github.io/WOAH-Datathon/
 - title: "WOAH data for AI assistants (MCP)"
   type: Project
   area: Data Science Lab

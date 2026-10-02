@@ -9,7 +9,7 @@ logo:
   small: assets/logos/woah-logo-colour.png
   medium: assets/logos/woah-logo-colour.png
 
-# Palette from the woah-style R package (Data-Integration-Department-WOAH/woah-style)
+# Palette from the woah-style R package (DIA-Dpt-WOAH/woah-style)
 color:
   palette:
     orange: "#FF4815"

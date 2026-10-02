@@ -1,7 +1,7 @@
 # DIAD technical material website (mock-up)
 
 Quarto website for the technical material of the WOAH Data Integration & Analytics Department.
-Same stack as the [WOAH Datathon site](https://data-integration-department-woah.github.io/WOAH-Datathon/):
+Same stack as the [WOAH Datathon site](https://dia-dpt-woah.github.io/WOAH-Datathon/):
 Quarto `website` project, `_brand.yml` with the WOAH palette (from `woah-style`), output in `docs/`.
 Only the `.qmd`/`.yml` sources are versioned; GitHub Actions renders the HTML.
 
@@ -33,8 +33,8 @@ Add an entry to the area's `materials.yml`:
   status: Available       # Available | In progress | Planned
   categories: [Report, Epidemic intelligence]
   description: "One sentence."
-  link: https://data-integration-department-woah.github.io/epiq-my-report/
-  repo: https://github.com/Data-Integration-Department-WOAH/epiq-my-report
+  link: https://dia-dpt-woah.github.io/epiq-my-report/
+  repo: https://github.com/DIA-Dpt-WOAH/epiq-my-report
 ```
 
 ## Build locally
@@ -53,7 +53,7 @@ quarto render       # builds into docs/ for a local check (docs/ is git-ignored)
   To update the site: edit the `.qmd`/`.yml` files, commit and push. No local render needed.
   Progress and errors show in the repo's Actions tab.
 - Material repos named with an area prefix (`obs-`, `epiq-`, `ahe-`, `dsl-`) and tagged with GitHub topics.
-  A repo with its own Quarto/pkgdown site is then served at `https://data-integration-department-woah.github.io/<repo>/`.
+  A repo with its own Quarto/pkgdown site is then served at `https://dia-dpt-woah.github.io/<repo>/`.
 
 ## Content rules
 
