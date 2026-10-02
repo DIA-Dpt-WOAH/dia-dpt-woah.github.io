@@ -10,11 +10,11 @@ DIAD turns WOAH data into evidence and advice. It is organised in three business
 - **[The Observatory](observatory/index.qmd)** monitors the implementation of WOAH standards by Members.
 - **[EPIQ](epiq/index.qmd)**, the EPIdemiology & Quantitative intelligence group, runs epidemic intelligence and risk analytics.
 - **[Animal Health Econometrics](econometrics/index.qmd)** studies the economics of animal health.
-- **[The Data Science Lab](dslab/index.qmd)** provides data products, pipelines, automation and AI to all of WOAH.
+- **[The Data Science Lab](dslab/index.qmd)** provides data products, pipelines, automation and AI to WOAH and its Members.
 
 ## DIAD in the WOAH data strategy
 
-DIAD leads the data side of the WOAH data strategy, from collection to external sharing.
+DIAD coordinates the execution of the data strategy, from collection to external sharing.
 
 | Step | Where we are going |
 |---|---|
@@ -30,7 +30,7 @@ These objectives contribute to three outcomes of WOAH's **8th Strategic Plan**: 
 
 ## How this site works
 
-- Each piece of technical material lives in its own public repository of the [Data-Integration-Department-WOAH](https://github.com/orgs/Data-Integration-Department-WOAH/repositories) organisation.
+- Each piece of technical material lives in its own public repository of the [DIA-Dpt-WOAH](https://github.com/orgs/DIA-Dpt-WOAH/) organisation.
 - This site is built with [Quarto](https://quarto.org) and published on GitHub Pages.
 - Reuse of WOAH data should cite WOAH as the source.
 

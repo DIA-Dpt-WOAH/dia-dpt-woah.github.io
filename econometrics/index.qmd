@@ -1,6 +1,6 @@
 ---
 title: "Animal Health Econometrics"
-subtitle: "Putting numbers on the economic side of animal health, with academic partners."
+subtitle: "Putting numbers on the economic side of animal health."
 title-block-banner: "#FFF2CE"
 title-block-banner-color: "#27282A"
 listing:
@@ -13,11 +13,11 @@ listing:
 
 ## Mission
 
-The Animal Health Econometrics group resumed its activity this year. Its work is currently carried by external researchers, including a PhD project hosted at the Roslin Institute, University of Edinburgh.
+The Animal Health Econometrics group resumed its activity this year. Its work is currently carried by internal and external researchers, including a PhD project hosted at the Roslin Institute, University of Edinburgh.
 
-[to confirm]{.todo} Proposed scope: quantitative analysis of the economic impact of animal diseases and of the interplay between animal health, trade and policy, building on WOAH and partner data.
+Scope: quantitative analysis of the economic impact of animal diseases and of the interplay between animal health, trade and policy, building on WOAH and partner data.
 
-## Research directions [to confirm]{.todo}
+## Research directions 
 
 ::: {.features}
 ::: {.feature}

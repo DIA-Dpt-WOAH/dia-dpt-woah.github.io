@@ -88,8 +88,8 @@ listing:
   <img src="assets/logos/data-swarm.png" alt="Data Swarm logo" style="width:180px;margin:0">
   <div style="flex:1;min-width:260px">
     <h2 style="margin-top:0">The Data Swarm</h2>
-    <p>DIAD works with the DSQE network, WOAH's network of data scientists: seven WOAH Collaborating Centres
-    in six countries, plus academic partners in Japan, South Korea, the United Kingdom and Spain.</p>
+    <p>DIAD works with the Data Science and Quantitative Epidemiology Network: seven WOAH Collaborating Centres
+    in six countries, plus academic partners in Japan and South Korea.</p>
     <a class="btn-woah" href="network.html">Meet the network</a>
   </div>
 </div>
