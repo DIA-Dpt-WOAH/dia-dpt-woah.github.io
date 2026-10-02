@@ -57,11 +57,3 @@ The [WOAH Datathon 2026](https://dia-dpt-woah.github.io/WOAH-Datathon/) is an in
 
 ::: {#dsl-materials}
 :::
-
-## Partners
-
-::: {.chips}
-- DSQE Collaborating Centres network (the Data Swarm)
-- International Institute for Zoonosis Control, Hokkaido University
-- Hankuk University of Foreign Studies, Seoul
-:::
