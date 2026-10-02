@@ -10,3 +10,6 @@
 .Ruserdata
 .Rproj.user
 .Rproj.user
+
+# Rendered site: built and deployed by GitHub Actions
+/docs/

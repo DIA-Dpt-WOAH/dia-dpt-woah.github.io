@@ -3,6 +3,7 @@
 Quarto website for the technical material of the WOAH Data Integration & Analytics Department.
 Same stack as the [WOAH Datathon site](https://data-integration-department-woah.github.io/WOAH-Datathon/):
 Quarto `website` project, `_brand.yml` with the WOAH palette (from `woah-style`), output in `docs/`.
+Only the `.qmd`/`.yml` sources are versioned; GitHub Actions renders the HTML.
 
 ## Structure
 
@@ -40,15 +41,17 @@ Add an entry to the area's `materials.yml`:
 
 ```bash
 quarto preview      # live preview
-quarto render       # builds into docs/ (keep docs/.nojekyll)
+quarto render       # builds into docs/ for a local check (docs/ is git-ignored)
 ```
 
 ## Publishing
 
 - Repo `DIA-Dpt-WOAH/dia-dpt-woah.github.io`, served by GitHub Pages at the organisation root URL
   `https://dia-dpt-woah.github.io/`. The repo name must match the organisation name, or Pages serves it under a sub-path.
-- GitHub Pages deploys from branch `main`, folder `/docs` (as for the Datathon).
-  To update the site: `quarto render`, then commit and push, `docs/` included.
+- Settings > Pages > Source is set to **GitHub Actions**. On every push to `main`,
+  `.github/workflows/publish.yml` runs `quarto render` (Quarto 1.10.18) and deploys `docs/`.
+  To update the site: edit the `.qmd`/`.yml` files, commit and push. No local render needed.
+  Progress and errors show in the repo's Actions tab.
 - Material repos named with an area prefix (`obs-`, `epiq-`, `ahe-`, `dsl-`) and tagged with GitHub topics.
   A repo with its own Quarto/pkgdown site is then served at `https://data-integration-department-woah.github.io/<repo>/`.
 
