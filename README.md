@@ -1,4 +1,4 @@
-# DIAD technical material website (mock-up)
+# DIAD technical material sharing website 
 
 Quarto website for the technical material of the WOAH Data Integration & Analytics Department.
 Same stack as the [WOAH Datathon site](https://dia-dpt-woah.github.io/WOAH-Datathon/):
