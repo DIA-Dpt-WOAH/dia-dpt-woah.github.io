@@ -1,6 +1,6 @@
 ---
 title: "Apps"
-subtitle: "Applications and tools developed by EPIQ."
+subtitle: "Applications and tools developed by EPIQ (RA tool)"
 title-block-banner: "#FFE7F0"
 title-block-banner-color: "#27282A"
 listing:

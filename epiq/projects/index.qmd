@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-subtitle: "Projects led or supported by EPIQ."
+subtitle: "Projects led or supported by EPIQ (e.g. Anomaly detection)"
 title-block-banner: "#FFE7F0"
 title-block-banner-color: "#27282A"
 listing:

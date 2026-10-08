@@ -3,19 +3,17 @@
   area: EPIQ
   status: In progress
   categories: [Project]
-  description: "Projects led or supported by EPIQ."
+  description: "Projects led or supported by EPIQ (e.g. Anomaly detection)"
   proposed: epiq-projects
   link: /epiq/projects/index.html
-  todo: true
 - title: "Apps"
   type: App
   area: EPIQ
   status: In progress
   categories: [App]
-  description: "Applications and tools developed by EPIQ."
+  description: "Applications and tools developed by EPIQ (RA tool)"
   proposed: epiq-apps
   link: /epiq/apps/index.html
-  todo: true
 - title: "Data scouting"
   type: Dataset
   area: EPIQ
