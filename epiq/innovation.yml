@@ -1,0 +1,26 @@
+- title: "Projects"
+  type: Project
+  area: EPIQ
+  status: In progress
+  categories: [Project]
+  description: "Projects led or supported by EPIQ."
+  proposed: epiq-projects
+  link: /epiq/projects/index.html
+  todo: true
+- title: "Apps"
+  type: App
+  area: EPIQ
+  status: In progress
+  categories: [App]
+  description: "Applications and tools developed by EPIQ."
+  proposed: epiq-apps
+  link: /epiq/apps/index.html
+  todo: true
+- title: "Data scouting"
+  type: Dataset
+  area: EPIQ
+  status: In progress
+  categories: [Dataset]
+  description: "Mapping and assessment of data sources for rapid risk assessment, globally and with a regional focus."
+  proposed: epiq-data-scouting
+  link: /epiq/data-scouting/index.html

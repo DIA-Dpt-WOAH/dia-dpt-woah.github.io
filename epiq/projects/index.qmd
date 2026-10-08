@@ -1,0 +1,23 @@
+---
+title: "Projects"
+subtitle: "Projects led or supported by EPIQ."
+title-block-banner: "#FFE7F0"
+title-block-banner-color: "#27282A"
+listing:
+  id: documents
+  contents: documents.yml
+  template: ../../_templates/materials.ejs
+  sort: false
+  categories: true
+---
+
+[← Back to EPIQ](../index.qmd)
+
+## Overview
+
+<span class="todo-tag">to confirm</span> What this area covers and who it serves.
+
+## Documents
+
+::: {#documents}
+:::
