@@ -3,7 +3,7 @@
   area: EPIQ
   status: In progress
   categories: [Report, Epidemic intelligence]
-  description: "Streamlined production of disease situation reports, soon published openly on this site."
+  description: "Periodic situation report on priority diseases"
   proposed: epiq-situation-reports
   link: /epiq/situation-reports/index.qmd
 - title: "Data scouting catalogue"

@@ -1,6 +1,6 @@
 ---
 title: "Disease situation reports"
-subtitle: "Streamlined production of disease situation reports, soon published openly on this site."
+subtitle: "Periodic situation report on priority diseases"
 title-block-banner: "#FFE7F0"
 title-block-banner-color: "#27282A"
 listing:
