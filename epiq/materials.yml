@@ -5,6 +5,7 @@
   categories: [Report, Epidemic intelligence]
   description: "Streamlined production of disease situation reports, soon published openly on this site."
   proposed: epiq-situation-reports
+  link: /epiq/situation-reports/index.qmd
 - title: "Data scouting catalogue"
   type: Dataset
   area: EPIQ
@@ -12,6 +13,7 @@
   categories: [Dataset, Rapid risk assessment]
   description: "Mapping and assessment of data sources for rapid risk assessment, globally and with a regional focus."
   proposed: epiq-data-scouting
+  link: /epiq/data-scouting/index.qmd
 - title: "Online media horizon scanning"
   type: Code
   area: EPIQ
@@ -19,6 +21,7 @@
   categories: [Code, Epidemic intelligence, AI]
   description: "Integration of online media signals for horizon scanning of emerging threats."
   proposed: epiq-horizon-scanning
+  link: /epiq/horizon-scanning/index.qmd
 - title: "Model-based risk assessment toolkit"
   type: Code
   area: EPIQ
@@ -26,4 +29,5 @@
   categories: [Code, Modelling, Rapid risk assessment]
   description: "From event detection to trends, foresight and modelling: reusable models supporting WOAH risk assessments."
   proposed: epiq-risk-models
+  link: /epiq/risk-models/index.qmd
   todo: true

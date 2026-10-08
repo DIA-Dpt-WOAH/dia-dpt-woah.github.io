@@ -1,0 +1,23 @@
+---
+title: "Disease situation reports"
+subtitle: "Streamlined production of disease situation reports, soon published openly on this site."
+title-block-banner: "#FFE7F0"
+title-block-banner-color: "#27282A"
+listing:
+  id: documents
+  contents: documents.yml
+  template: ../../_templates/materials.ejs
+  sort: false
+  categories: true
+---
+
+[← Back to EPIQ](../index.qmd)
+
+## Overview
+
+<span class="todo-tag">to confirm</span> What this workstream does, who it serves and how often outputs are produced.
+
+## Documents
+
+::: {#documents}
+:::
