@@ -6,14 +6,14 @@
   description: "Periodic situation report on priority diseases"
   proposed: epiq-situation-reports
   link: /epiq/situation-reports/index.html
-- title: "Data scouting catalogue"
-  type: Dataset
+- title: "Technical reports"
+  type: Report
   area: EPIQ
   status: In progress
-  categories: [Dataset, Rapid risk assessment]
-  description: "Mapping and assessment of data sources for rapid risk assessment, globally and with a regional focus."
-  proposed: epiq-data-scouting
-  link: /epiq/data-scouting/index.html
+  categories: [Report]
+  description: "Technical reports connected to EPIQ activities (e.g. theses, internship reports, workshops, etc.)"
+  proposed: epiq-technical-reports
+  link: /epiq/technical-reports/index.html
 - title: "Online media horizon scanning"
   type: Code
   area: EPIQ

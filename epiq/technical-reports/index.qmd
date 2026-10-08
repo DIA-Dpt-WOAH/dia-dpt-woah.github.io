@@ -1,6 +1,6 @@
 ---
-title: "Data scouting catalogue"
-subtitle: "Mapping and assessment of data sources for rapid risk assessment, globally and with a regional focus."
+title: "Technical reports"
+subtitle: "Technical reports connected to EPIQ activities (e.g. theses, internship reports, workshops, etc.)"
 title-block-banner: "#FFE7F0"
 title-block-banner-color: "#27282A"
 listing:
