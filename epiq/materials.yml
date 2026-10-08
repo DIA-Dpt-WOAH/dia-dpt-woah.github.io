@@ -14,14 +14,14 @@
   description: "Technical reports connected to EPIQ activities (e.g. theses, internship reports, workshops, etc.)"
   proposed: epiq-technical-reports
   link: /epiq/technical-reports/index.html
-- title: "Online media horizon scanning"
-  type: Code
+- title: "Scientific contributions"
+  type: Paper
   area: EPIQ
   status: In progress
-  categories: [Code, Epidemic intelligence, AI]
-  description: "Integration of online media signals for horizon scanning of emerging threats."
-  proposed: epiq-horizon-scanning
-  link: /epiq/horizon-scanning/index.html
+  categories: [Paper]
+  description: "EPIQ contribution to the scientific community"
+  proposed: epiq-scientific-contributions
+  link: /epiq/scientific-contributions/index.html
 - title: "Model-based risk assessment toolkit"
   type: Code
   area: EPIQ

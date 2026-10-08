@@ -1,6 +1,6 @@
 ---
-title: "Online media horizon scanning"
-subtitle: "Integration of online media signals for horizon scanning of emerging threats."
+title: "Scientific contributions"
+subtitle: "EPIQ contribution to the scientific community"
 title-block-banner: "#FFE7F0"
 title-block-banner-color: "#27282A"
 listing:
