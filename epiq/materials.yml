@@ -22,12 +22,11 @@
   description: "EPIQ contribution to the scientific community"
   proposed: epiq-scientific-contributions
   link: /epiq/scientific-contributions/index.html
-- title: "Model-based risk assessment toolkit"
-  type: Code
+- title: "Conferences, expert contributions and events"
+  type: Expertise
   area: EPIQ
-  status: Planned
-  categories: [Code, Modelling, Rapid risk assessment]
-  description: "From event detection to trends, foresight and modelling: reusable models supporting WOAH risk assessments."
-  proposed: epiq-risk-models
-  link: /epiq/risk-models/index.html
-  todo: true
+  status: In progress
+  categories: [Expertise]
+  description: "Conferences, expert contributions and events with EPIQ participation"
+  proposed: epiq-conferences-events
+  link: /epiq/conferences-events/index.html

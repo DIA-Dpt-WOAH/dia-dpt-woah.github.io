@@ -1,6 +1,6 @@
 ---
-title: "Model-based risk assessment toolkit"
-subtitle: "From event detection to trends, foresight and modelling: reusable models supporting WOAH risk assessments."
+title: "Conferences, expert contributions and events"
+subtitle: "Conferences, expert contributions and events with EPIQ participation"
 title-block-banner: "#FFE7F0"
 title-block-banner-color: "#27282A"
 listing:
