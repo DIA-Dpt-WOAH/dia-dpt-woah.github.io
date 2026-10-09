@@ -2,9 +2,11 @@
 ::: {.band .pink .weekly-findings}
 ### 📌 Epidemic intelligence: key findings of the week
 
-[Week of DD Month YYYY]{.weekly-date} <span class="todo-tag">placeholder</span>
+[Week of 5 October 2026]{.weekly-date}
 
-- **Finding 1**: short summary of the most relevant event or trend, with a link to the related report.
-- **Finding 2**: short summary.
-- **Finding 3**: short summary.
+- **🐖 African swine fever, first occurrence in a zone in Hungary**: one outbreak in domestic pigs (3 cases) in Somogy, starting on 6 August 2026. Poland also reported a recurrence in Pomorskie (21 August 2026).
+- **🐖 African swine fever, spread beyond affected areas**: 26 outbreaks were notified more than 10 km outside previously affected areas, including a "jump" of about 67 km in Finland.
+- **🐖 African swine fever, August 2026 overview**: 85 outbreaks in domestic pigs and 243 in wild boar were reported, almost all in Europe. About 48% of outbreaks occurred in areas with more than 10 pigs/km².
+
+Source: [ASF Situation Report 80 (August 2026)](african-swine-fever/documents/asf-report-80.pdf) · [all ASF reports](african-swine-fever/index.qmd)
 :::
