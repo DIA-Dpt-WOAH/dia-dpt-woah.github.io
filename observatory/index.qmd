@@ -13,7 +13,7 @@ listing:
 
 ## Mission
 
-The Observatory monitors the uptake of WOAH international standards by Members and formulates recommendations to improve them and their implementation. Its data come from Members through the official channel, mainly through ad-hoc **Thematic Studies**, and increasingly from complementary sources such as national legislation.
+The Observatory monitors the uptake of WOAH international standards by Members and formulates recommendations to improve them and their implementation. Its data come from Members through the official channel, as well as external or non-official sources. While **Monitoring Exercise** rely on regular data collected by WOAH and its partner organisations, *ad-hoc* **Thematic Studies** are opportunity for WOAH and its Members to exchange information about opportunities and challenges to better implement WOAH standards. Its current focus is to increase data coverage from complementary sources such as national legislation.
 
 ::: {.stat-row}
 ::: {.stat}
@@ -32,7 +32,7 @@ The Observatory monitors the uptake of WOAH international standards by Members a
 
 ## Where we are going
 
-The Observatory works at capacity and is moving towards sharper, more targeted and more robust output.
+The Observatory works at capacity and is moving towards sharper, more targeted and more robust output to support Members better implement WOAH stnadards and enhance standard-setting processes.
 
 ::: {.features}
 ::: {.feature}
