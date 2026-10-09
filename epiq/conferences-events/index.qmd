@@ -3,21 +3,18 @@ title: "Conferences, expert contributions and events"
 subtitle: "Conferences, expert contributions and events with EPIQ participation"
 title-block-banner: "#FFE7F0"
 title-block-banner-color: "#27282A"
+css: ../epiq.css
+toc: false
 listing:
-  id: documents
-  contents: documents.yml
-  template: ../../_templates/materials.ejs
+  id: topics
+  contents: topics.yml
+  template: ../topics.ejs
   sort: false
-  categories: true
 ---
 
 [← Back to EPIQ](../index.qmd)
 
-## Overview
+Select a type to see all items.
 
-<span class="todo-tag">to confirm</span> What this workstream does, who it serves and how often outputs are produced.
-
-## Documents
-
-::: {#documents}
+::: {#topics}
 :::

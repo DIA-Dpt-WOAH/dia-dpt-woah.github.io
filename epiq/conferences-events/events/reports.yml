@@ -1,0 +1,11 @@
+# Items listed on this page (newest first).
+# Fields: title, date (YYYY-MM-DD), and any of:
+#   authors: "A. Author"            venue: "Event / meeting name, place"
+#   pdf: documents/<file>.pdf       pptx: documents/<file>.pptx
+#   html: documents/<file>.html     url: https://...  (event page or other link)
+# Example:
+# - title: "Title of the item"
+#   venue: "Event name, City"
+#   date: 2026-10-01
+#   pptx: documents/file.pptx
+[]
