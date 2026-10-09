@@ -1,0 +1,12 @@
+# Contributions listed on this page (newest first).
+# Fields: title, date (YYYY-MM-DD), and any of:
+#   authors: "A. Author, B. Author"   venue: "Journal / publisher / conference"
+#   doi: https://doi.org/...          url: https://...  (any other link)
+#   pdf: documents/<file>.pdf         html: documents/<file>.html
+# Example:
+# - title: "Title of the article"
+#   authors: "A. Author, B. Author"
+#   venue: "Preventive Veterinary Medicine"
+#   date: 2026-05-01
+#   doi: https://doi.org/10.xxxx/xxxxx
+[]

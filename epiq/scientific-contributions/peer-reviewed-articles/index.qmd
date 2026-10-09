@@ -1,0 +1,21 @@
+---
+title: "🔬 Peer-reviewed articles"
+subtitle: "Original research and review articles published in peer-reviewed scientific journals."
+title-block-banner: "#FFE7F0"
+title-block-banner-color: "#27282A"
+css: ../../epiq.css
+resources:
+  - documents/
+listing:
+  - id: reports
+    contents: reports.yml
+    template: ../../reports.ejs
+    sort: "date desc"
+---
+
+[← All scientific contributions](../index.qmd)
+
+## Contributions
+
+::: {#reports}
+:::

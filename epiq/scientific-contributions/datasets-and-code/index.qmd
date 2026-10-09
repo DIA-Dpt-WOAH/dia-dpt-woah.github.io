@@ -1,0 +1,21 @@
+---
+title: "💾 Datasets & code"
+subtitle: "Published datasets and software supporting EPIQ research, with a DOI where available."
+title-block-banner: "#FFE7F0"
+title-block-banner-color: "#27282A"
+css: ../../epiq.css
+resources:
+  - documents/
+listing:
+  - id: reports
+    contents: reports.yml
+    template: ../../reports.ejs
+    sort: "date desc"
+---
+
+[← All scientific contributions](../index.qmd)
+
+## Contributions
+
+::: {#reports}
+:::

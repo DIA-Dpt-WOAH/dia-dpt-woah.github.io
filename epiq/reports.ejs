@@ -6,10 +6,12 @@
     <span class="report-date listing-date"><%= item.date %></span>
     <span class="report-main">
       <span class="report-title listing-title"><%= item.title %></span>
-      <% if (item.authors) { %><span class="report-authors"><%= item.authors %></span><% } %>
+      <% if (item.authors || item.venue) { %><span class="report-authors"><%= [item.authors, item.venue].filter(Boolean).join(' · ') %></span><% } %>
     </span>
     <span class="report-links">
       <% if (item.pdf) { %><a href="<%- item.pdf %>"><i class="bi bi-file-earmark-pdf"></i> PDF</a><% } %>
+      <% if (item.doi) { %><a href="<%- item.doi %>"><i class="bi bi-link-45deg"></i> DOI</a><% } %>
+      <% if (item.url) { %><a href="<%- item.url %>"><i class="bi bi-box-arrow-up-right"></i> Link</a><% } %>
       <% if (item.html) { %><a href="<%- item.html %>"><i class="bi bi-filetype-html"></i> HTML</a><% } %>
     </span>
   </li>
