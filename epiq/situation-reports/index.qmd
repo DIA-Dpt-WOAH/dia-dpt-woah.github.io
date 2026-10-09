@@ -3,21 +3,18 @@ title: "Disease situation reports"
 subtitle: "Periodic situation report on priority diseases"
 title-block-banner: "#FFE7F0"
 title-block-banner-color: "#27282A"
+css: ../epiq.css
+toc: false
 listing:
-  id: documents
-  contents: documents.yml
-  template: ../../_templates/materials.ejs
+  id: topics
+  contents: topics.yml
+  template: ../topics.ejs
   sort: false
-  categories: true
 ---
 
 [← Back to EPIQ](../index.qmd)
 
-## Overview
+Select a disease or topic to see all its reports.
 
-<span class="todo-tag">to confirm</span> What this workstream does, who it serves and how often outputs are produced.
-
-## Documents
-
-::: {#documents}
+::: {#topics}
 :::

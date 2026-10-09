@@ -1,0 +1,44 @@
+- title: "African swine fever (ASF)"
+  icon: "🐖"
+  description: "Situation reports on African swine fever in domestic pigs and wild boar."
+  link: african-swine-fever/index.html
+- title: "Highly pathogenic avian influenza (HPAI)"
+  icon: "🐦"
+  description: "Weekly and monthly situation reports on HPAI in birds and mammals."
+  link: avian-influenza/index.html
+- title: "Diseases in wildlife"
+  icon: "🦌"
+  description: "Situation reports on diseases affecting wild animals."
+  link: wildlife/index.html
+- title: "Diseases of aquatic animals"
+  icon: "🐟"
+  description: "Situation reports on diseases of fish, molluscs, crustaceans and amphibians."
+  link: aquatic-animals/index.html
+- title: "Lumpy skin disease (LSD)"
+  icon: "🐄"
+  description: "Situation reports on lumpy skin disease."
+  link: lumpy-skin-disease/index.html
+- title: "Foot and mouth disease (FMD)"
+  icon: "🐑"
+  description: "Situation reports on foot and mouth disease."
+  link: foot-and-mouth-disease/index.html
+- title: "Shamonda virus"
+  icon: "🦠"
+  description: "Situation reports on Shamonda virus."
+  link: shamonda-virus/index.html
+- title: "Unusual morbidity and mortality events"
+  icon: "⚠️"
+  description: "Situation reports on unusual morbidity and mortality events in animals."
+  link: unusual-events/index.html
+- title: "Vector-borne diseases"
+  icon: "🦟"
+  description: "Situation reports on vector-borne animal diseases."
+  link: vector-borne-diseases/index.html
+- title: "Amdoparvovirus"
+  icon: "🦦"
+  description: "Situation reports on amdoparvovirus infections (e.g. Aleutian mink disease)."
+  link: amdoparvovirus/index.html
+- title: "Epidemic intelligence situation report for Asia and the Pacific"
+  icon: "🌏"
+  description: "Regional epidemic intelligence situation reports for Asia and the Pacific."
+  link: asia-pacific/index.html

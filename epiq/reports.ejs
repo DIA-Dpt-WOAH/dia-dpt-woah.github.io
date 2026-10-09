@@ -1,0 +1,15 @@
+```{=html}
+<% if (items.length === 0) { %><p class="no-reports">No reports published yet.</p><% } %>
+<ul class="list report-list">
+<% for (const item of items) { %>
+  <li class="report-row" <%= metadataAttrs(item) %>>
+    <span class="report-date listing-date"><%= item.date %></span>
+    <span class="report-title listing-title"><%= item.title %></span>
+    <span class="report-links">
+      <% if (item.pdf) { %><a href="<%- item.pdf %>"><i class="bi bi-file-earmark-pdf"></i> PDF</a><% } %>
+      <% if (item.html) { %><a href="<%- item.html %>"><i class="bi bi-filetype-html"></i> HTML</a><% } %>
+    </span>
+  </li>
+<% } %>
+</ul>
+```
