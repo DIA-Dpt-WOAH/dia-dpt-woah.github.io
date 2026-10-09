@@ -14,6 +14,10 @@ listing:
 
 [← Back to EPIQ](../index.qmd)
 
+{{< include _weekly-findings.qmd >}}
+
+## Reports by disease and topic
+
 Select a disease or topic to see all its reports.
 
 ::: {#topics}

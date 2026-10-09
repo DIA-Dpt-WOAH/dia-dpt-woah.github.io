@@ -1,0 +1,10 @@
+<!-- Weekly epidemic intelligence findings: replace this content every week. -->
+::: {.band .pink .weekly-findings}
+### 📌 Epidemic intelligence: key findings of the week
+
+[Week of DD Month YYYY]{.weekly-date} <span class="todo-tag">placeholder</span>
+
+- **Finding 1**: short summary of the most relevant event or trend, with a link to the related report.
+- **Finding 2**: short summary.
+- **Finding 3**: short summary.
+:::
