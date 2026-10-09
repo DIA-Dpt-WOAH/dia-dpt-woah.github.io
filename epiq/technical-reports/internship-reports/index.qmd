@@ -1,0 +1,21 @@
+---
+title: "💼 Internship reports"
+subtitle: "Reports from internships hosted by EPIQ."
+title-block-banner: "#FFE7F0"
+title-block-banner-color: "#27282A"
+css: ../../epiq.css
+resources:
+  - documents/
+listing:
+  - id: reports
+    contents: reports.yml
+    template: ../../reports.ejs
+    sort: "date desc"
+---
+
+[← All technical reports](../index.qmd)
+
+## Documents
+
+::: {#reports}
+:::

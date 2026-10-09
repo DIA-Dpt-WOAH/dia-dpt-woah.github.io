@@ -30,3 +30,6 @@
 
 .weekly-findings h3 { margin-top: 0; }
 .weekly-date { display: inline-block; font-size: .85rem; color: #666; margin-bottom: .4rem; }
+
+.report-main { flex: 1; min-width: 12rem; display: flex; flex-direction: column; }
+.report-authors { font-size: .82rem; color: #666; }
