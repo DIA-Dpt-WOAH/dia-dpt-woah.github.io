@@ -5,4 +5,9 @@
 # - title: "Situation report no. 1"
 #   date: 2026-10-01
 #   pdf: documents/report-2026-10-01.pdf
-[]
+- title: "HPAI Situation Report 86 (August 2026)"
+  date: 2026-08-31
+  pdf: documents/hpai-situation-report-86.pdf
+- title: "HPAI Situation Report 85 (July 2026)"
+  date: 2026-07-31
+  pdf: documents/hpai-situation-report-85.pdf
