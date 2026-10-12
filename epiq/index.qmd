@@ -68,4 +68,13 @@ Feeding WOAH risk assessments, powered by automation and AI.
 - LD4D consortium (University of Edinburgh)
 - University of Milan
 - ENETWILD consortium
+- INRAE
+- CIRAD
+- ANSES
+- Experimental Zooprophylactic Institute of the Venezie (IZSVe)
+- University of Teramo
+- World Bank
+- Australian Department of Agriculture, Fisheries and Forestry (DAFF)
+- Joint Research Centre (JRC)
+- INTERPOL
 :::
