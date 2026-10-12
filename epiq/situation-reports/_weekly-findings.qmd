@@ -2,11 +2,13 @@
 ::: {.band .pink .weekly-findings}
 ### 📌 Epidemic intelligence: key findings of the week
 
-[Week of 5 October 2026]{.weekly-date}
+[Week of 12 October 2026]{.weekly-date}
 
-- **🐖 African swine fever, first occurrence in a zone in Hungary**: one outbreak in domestic pigs (3 cases) in Somogy, starting on 6 August 2026. Poland also reported a recurrence in Pomorskie (21 August 2026).
-- **🐖 African swine fever, spread beyond affected areas**: 26 outbreaks were notified more than 10 km outside previously affected areas, including a "jump" of about 67 km in Finland.
-- **🐖 African swine fever, August 2026 overview**: 85 outbreaks in domestic pigs and 243 in wild boar were reported, almost all in Europe. About 48% of outbreaks occurred in areas with more than 10 pigs/km².
+- **🐦 HPAI, new event in Chinese Taipei**: H5N1 in poultry in Taipei (event started 8 August 2026). Only 3 poultry outbreaks were reported worldwide in August, in line with the seasonal low in the Northern hemisphere.
+- **🐦 HPAI in mammals, USA**: H5N1 outbreaks in a cat and in a mustelid were reported in August 2026, after outbreaks in cattle in July.
+- **🐦 HPAI, first detection in a wild bird in New Zealand**: H5N1 in a subantarctic skua in Wellington (8 July 2026).
+- **🐦 HPAI in wild birds, record season**: 7,444 outbreaks in wild birds since October 2025 (to 31 August), against 1,926 in the whole previous season, mostly in Europe.
+- **🐖 African swine fever, new areas in Europe**: Finland reported its first occurrence of ASF in wild boar (24 July 2026), and Hungary its first occurrence in a zone, in domestic pigs in Somogy (6 August 2026).
 
-Source: [ASF Situation Report 80 (August 2026)](african-swine-fever/documents/asf-report-80.pdf) · [all ASF reports](african-swine-fever/index.qmd)
+Sources: [HPAI situation reports 85–86](avian-influenza/index.qmd) · [ASF situation reports 79–80](african-swine-fever/index.qmd)
 :::
