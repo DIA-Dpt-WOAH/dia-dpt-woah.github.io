@@ -5,4 +5,9 @@
 # - title: "Situation report no. 1"
 #   date: 2026-10-01
 #   pdf: documents/report-2026-10-01.pdf
-[]
+- title: "Wildlife Diseases Situation Report Q1/26 (January–March 2026)"
+  date: 2026-03-31
+  pdf: documents/wildlife-situation-report-q1-2026.pdf
+- title: "Wildlife Diseases Situation Report Q4/25 (August–December 2025)"
+  date: 2025-12-31
+  pdf: documents/wildlife-situation-report-q4-2025.pdf
