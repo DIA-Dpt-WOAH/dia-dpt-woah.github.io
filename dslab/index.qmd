@@ -4,24 +4,33 @@ subtitle: "Transversal support: bringing WOAH into the 21st century, data-wise."
 title-block-banner: "#DDF3E6"
 title-block-banner-color: "#27282A"
 listing:
-  id: dsl-materials
-  contents: materials.yml
-  template: ../_templates/materials.ejs
-  sort: false
-  categories: true
+  - id: dsl-build
+    contents: materials.yml
+    template: ../_templates/materials.ejs
+    sort: false
+    include:
+      section: build
+  - id: dsl-materials
+    contents: materials.yml
+    template: ../_templates/materials.ejs
+    sort: false
+    categories: true
+    exclude:
+      section: build
 ---
 
 ## Mission
 
 The DS Lab is DIAD's transversal team. It builds the data foundations that the three business teams, and other WOAH departments, rely on: data products on Microsoft Fabric, data management and analytics pipelines, process automation and ad-hoc analyses. It also spearheads AI adoption across the Organisation.
 
-## What we build
+## What we do
+
+::: {#dsl-build}
+:::
+
+## Upcoming projects
 
 ::: {.features}
-::: {.feature}
-#### Master datasets
-Countries, diseases and disease status (glossary forthcoming): one reference version for all of WOAH, citable through DOIs.
-:::
 ::: {.feature}
 #### APIs for programs
 Master datasets made available to programs through an API, with no human in the loop.
@@ -31,17 +40,14 @@ Master datasets made available to programs through an API, with no human in the 
 A project to make WOAH data directly queryable by AI assistants through the Model Context Protocol.
 :::
 ::: {.feature}
-#### AI adoption
-Tools such as a translation app and a standards query app, and an MSc-AI internship programme scaling AI into daily use.
+#### Metadata
+Creating metadata for WOAH's main datasets.
 :::
-::: {.feature}
-#### One platform
-Microsoft Fabric Lakehouses as the single storage platform, with ownership kept by technical departments.
 :::
-::: {.feature}
-#### Datathon
-The [WOAH Datathon 2026](https://dia-dpt-woah.github.io/WOAH-Datathon/) is an international datathon on animal health data science: surveillance, risk, trade and impact assessment.
-:::
+
+## Events, trainings and conferences
+
+::: {#dsl-materials}
 :::
 
 ::: {.band .green}
@@ -51,9 +57,4 @@ The [WOAH Datathon 2026](https://dia-dpt-woah.github.io/WOAH-Datathon/) is an in
 |---|---|---|
 | Programs | API, no human in the loop | Master datasets: in progress |
 | AI assistants | MCP (project) | WOAH data queryable by large language models |
-:::
-
-## Technical material
-
-::: {#dsl-materials}
 :::

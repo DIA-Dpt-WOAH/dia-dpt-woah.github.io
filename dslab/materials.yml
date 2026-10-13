@@ -1,4 +1,39 @@
+- title: "AI adoption"
+  section: build
+  hidestatus: true
+  type: AI
+  area: Data Science Lab
+  status: In progress
+  categories: [AI]
+  description: "Tools such as a translation app and a standards query app, and an MSc-AI internship programme scaling AI into daily use."
+- title: "Process automation"
+  section: build
+  hidestatus: true
+  type: Automation
+  area: Data Science Lab
+  status: In progress
+  categories: [Automation]
+  description: "We automate manual, repetitive tasks to streamline processes across WOAH and make them faster."
+- title: "One platform"
+  section: build
+  hidestatus: true
+  type: Platform
+  area: Data Science Lab
+  status: In progress
+  categories: [Platform, Microsoft Fabric]
+  description: "Migrating WOAH data to Microsoft Fabric Lakehouses, the single storage platform, with ownership kept by technical departments."
+- title: "Translation app"
+  section: build
+  hidestatus: true
+  type: App
+  area: Data Science Lab
+  status: Available
+  categories: [App, AI]
+  description: "Internal application for AI-assisted translation of WOAH documents."
+  todo: true
 - title: "Master datasets: countries, diseases, disease status"
+  section: build
+  hidestatus: true
   type: Dataset
   area: Data Science Lab
   status: In progress
@@ -6,14 +41,14 @@
   description: "One reference version for the whole Organisation, citable through DOIs and served through the API. Glossary forthcoming."
   proposed: dsl-master-datasets
   todo: true
-- title: "WOAH style for R (woah-style)"
-  type: Code
+- title: "Data analysis"
+  section: build
+  hidestatus: true
+  type: Analysis
   area: Data Science Lab
   status: Available
-  categories: [Code, R, Visualisation]
-  description: "R package with the WOAH colour palette and style guide features for consistent charts and reports."
-  repo: https://github.com/DIA-Dpt-WOAH/woah-style
-  link: https://github.com/DIA-Dpt-WOAH/woah-style
+  categories: [Analysis, R, Power BI]
+  description: "Statistical analysis and data visualisation for WOAH teams, from ad-hoc analyses to reproducible reports and interactive dashboards in R and Power BI."
 - title: "Data science training"
   type: Training
   area: Data Science Lab
@@ -30,17 +65,9 @@
   description: "International datathon on animal health data science: surveillance, risk, trade and impact assessment."
   repo: https://github.com/DIA-Dpt-WOAH/WOAH-Datathon
   link: https://dia-dpt-woah.github.io/WOAH-Datathon/
-- title: "WOAH data for AI assistants (MCP)"
-  type: Project
+- title: "Conferences"
+  type: Conference
   area: Data Science Lab
-  status: Planned
-  categories: [AI, API]
-  description: "Project to make WOAH data directly queryable by large language models through the Model Context Protocol."
-  proposed: dsl-woah-mcp
-- title: "Translation app"
-  type: App
-  area: Data Science Lab
-  status: Available
-  categories: [App, AI]
-  description: "Internal application for AI-assisted translation of WOAH documents."
-  todo: true
+  hidestatus: true
+  categories: [Conference, Community]
+  description: "Data-related conferences we have attended or will attend, where we present and discuss WOAH's work in data science and AI."

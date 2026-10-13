@@ -7,7 +7,7 @@
   <div class="material status-<%= status %>" <%= metadataAttrs(item) %>>
     <div class="mtype">
       <span><%= item.type %></span>
-      <span class="status"><%= item.status || 'Available' %></span>
+      <% if (!item.hidestatus) { %><span class="status"><%= item.status || 'Available' %></span><% } %>
     </div>
     <h4><a href="<%- link %>" class="listing-title"><%= item.title %></a></h4>
     <p class="listing-description"><%= item.description %></p>
