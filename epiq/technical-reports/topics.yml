@@ -1,0 +1,12 @@
+- title: "Technical reports"
+  icon: "📄"
+  description: "Technical reports produced by EPIQ or in collaboration with partners."
+  link: technical-reports/index.html
+- title: "Internship reports"
+  icon: "💼"
+  description: "Reports from internships hosted by EPIQ."
+  link: internship-reports/index.html
+- title: "Theses"
+  icon: "🎓"
+  description: "Master's and PhD theses connected to EPIQ activities."
+  link: theses/index.html

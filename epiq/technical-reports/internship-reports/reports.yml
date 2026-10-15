@@ -1,0 +1,10 @@
+# Documents listed on this page (newest first).
+# - File in documents/:  pdf: documents/<file>.pdf   and/or   html: documents/<file>.html
+# - Hosted elsewhere:    pdf: https://...            and/or   html: https://...
+# - authors (optional):  shown below the title
+# Example:
+# - title: "Title of the document"
+#   authors: "A. Author, B. Author"
+#   date: 2026-10-01
+#   pdf: documents/file.pdf
+[]

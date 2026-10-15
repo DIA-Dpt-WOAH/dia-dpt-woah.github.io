@@ -1,0 +1,21 @@
+---
+title: "⚠️ Unusual morbidity and mortality events"
+subtitle: "Situation reports on unusual morbidity and mortality events in animals."
+title-block-banner: "#FFE7F0"
+title-block-banner-color: "#27282A"
+css: ../../epiq.css
+resources:
+  - documents/
+listing:
+  - id: reports
+    contents: reports.yml
+    template: ../../reports.ejs
+    sort: "date desc"
+---
+
+[← All situation reports](../index.qmd)
+
+## Reports
+
+::: {#reports}
+:::

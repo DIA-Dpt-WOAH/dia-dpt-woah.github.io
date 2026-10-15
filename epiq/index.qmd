@@ -4,11 +4,15 @@ subtitle: "The EPIdemiology & Quantitative intelligence group: from detecting ev
 title-block-banner: "#FFE7F0"
 title-block-banner-color: "#27282A"
 listing:
-  id: epiq-materials
-  contents: materials.yml
-  template: ../_templates/materials.ejs
-  sort: false
-  categories: true
+  - id: epiq-materials
+    contents: materials.yml
+    template: ../_templates/materials.ejs
+    sort: false
+    categories: true
+  - id: epiq-innovation
+    contents: innovation.yml
+    template: ../_templates/materials.ejs
+    sort: false
 ---
 
 ## Mission
@@ -45,6 +49,11 @@ Feeding WOAH risk assessments, powered by automation and AI.
 ::: {#epiq-materials}
 :::
 
+## Innovation & projects
+
+::: {#epiq-innovation}
+:::
+
 ## Partners
 
 ::: {.chips}
@@ -59,4 +68,13 @@ Feeding WOAH risk assessments, powered by automation and AI.
 - LD4D consortium (University of Edinburgh)
 - University of Milan
 - ENETWILD consortium
+- INRAE
+- CIRAD
+- ANSES
+- Experimental Zooprophylactic Institute of the Venezie (IZSVe)
+- University of Teramo
+- World Bank
+- Australian Department of Agriculture, Fisheries and Forestry (DAFF)
+- Joint Research Centre (JRC)
+- INTERPOL
 :::

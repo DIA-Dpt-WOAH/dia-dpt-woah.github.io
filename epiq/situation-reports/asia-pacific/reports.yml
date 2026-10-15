@@ -1,0 +1,8 @@
+# Reports listed on this page (newest first).
+# - File in documents/:  pdf: documents/<file>.pdf   and/or   html: documents/<file>.html
+# - Hosted elsewhere:    pdf: https://...            and/or   html: https://...
+# Example:
+# - title: "Situation report no. 1"
+#   date: 2026-10-01
+#   pdf: documents/report-2026-10-01.pdf
+[]

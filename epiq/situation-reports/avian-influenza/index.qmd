@@ -1,0 +1,30 @@
+---
+title: "🐦 Highly pathogenic avian influenza (HPAI)"
+subtitle: "Weekly and monthly situation reports on HPAI in birds and mammals."
+title-block-banner: "#FFE7F0"
+title-block-banner-color: "#27282A"
+css: ../../epiq.css
+resources:
+  - documents/
+listing:
+  - id: weekly
+    contents: weekly.yml
+    template: ../../reports.ejs
+    sort: "date desc"
+  - id: monthly
+    contents: monthly.yml
+    template: ../../reports.ejs
+    sort: "date desc"
+---
+
+[← All situation reports](../index.qmd)
+
+## Weekly reports
+
+::: {#weekly}
+:::
+
+## Monthly reports
+
+::: {#monthly}
+:::

@@ -1,0 +1,21 @@
+---
+title: "🎤 Conferences"
+subtitle: "Conferences where EPIQ presented its work or contributed to the programme."
+title-block-banner: "#FFE7F0"
+title-block-banner-color: "#27282A"
+css: ../../epiq.css
+resources:
+  - documents/
+listing:
+  - id: reports
+    contents: reports.yml
+    template: ../../reports.ejs
+    sort: "date desc"
+---
+
+[← All conferences, expert contributions and events](../index.qmd)
+
+## Items
+
+::: {#reports}
+:::

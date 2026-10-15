@@ -1,0 +1,13 @@
+# Reports listed on this page (newest first).
+# - File in documents/:  pdf: documents/<file>.pdf   and/or   html: documents/<file>.html
+# - Hosted elsewhere:    pdf: https://...            and/or   html: https://...
+# Example:
+# - title: "Situation report no. 1"
+#   date: 2026-10-01
+#   pdf: documents/report-2026-10-01.pdf
+- title: "Aquatic Animal Health – Amphibians Situation Report (2025 No. 4)"
+  date: 2026-03-02
+  pdf: documents/202603-periodic-situation-report-aah-q4-2025-amphibians.pdf
+- title: "Aquatic Animal Health – Crustaceans Situation Report (2025 No. 3)"
+  date: 2026-03-01
+  pdf: documents/202603-periodic-situation-report-aah-q3-2025-crustaceans.pdf

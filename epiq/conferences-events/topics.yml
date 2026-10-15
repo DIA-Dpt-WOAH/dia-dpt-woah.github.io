@@ -1,0 +1,20 @@
+- title: "Mission reports"
+  icon: "✈️"
+  description: "Reports from missions carried out by EPIQ staff."
+  link: mission-reports/index.html
+- title: "Conferences"
+  icon: "🎤"
+  description: "Conferences where EPIQ presented its work or contributed to the programme."
+  link: conferences/index.html
+- title: "Presentations"
+  icon: "📊"
+  description: "Slides presented by EPIQ (PowerPoint and PDF)."
+  link: presentations/index.html
+- title: "Meetings and expert contributions"
+  icon: "🤝"
+  description: "Meetings, expert groups and consultations with EPIQ contributions."
+  link: meetings-expert-contributions/index.html
+- title: "Events"
+  icon: "📅"
+  description: "Workshops, trainings, webinars and other events organised or attended by EPIQ."
+  link: events/index.html

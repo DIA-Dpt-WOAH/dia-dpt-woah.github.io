@@ -1,0 +1,14 @@
+```{=html}
+<div class="list topic-list">
+<% for (const item of items) { %>
+  <a class="topic-row" href="<%- item.link %>" <%= metadataAttrs(item) %>>
+    <span class="topic-icon" aria-hidden="true"><%= item.icon %></span>
+    <span class="topic-text">
+      <span class="topic-title listing-title"><%= item.title %></span>
+      <span class="topic-desc listing-description"><%= item.description %></span>
+    </span>
+    <i class="bi bi-chevron-right topic-chevron" aria-hidden="true"></i>
+  </a>
+<% } %>
+</div>
+```

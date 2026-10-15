@@ -1,0 +1,24 @@
+- title: "Peer-reviewed articles"
+  icon: "🔬"
+  description: "Original research and review articles published in peer-reviewed scientific journals."
+  link: peer-reviewed-articles/index.html
+- title: "Preprints"
+  icon: "📝"
+  description: "Manuscripts shared publicly before peer review (e.g. bioRxiv, medRxiv, Zenodo)."
+  link: preprints/index.html
+- title: "Book chapters"
+  icon: "📚"
+  description: "Chapters contributed to books, manuals and technical series."
+  link: book-chapters/index.html
+- title: "Datasets & code"
+  icon: "💾"
+  description: "Published datasets and software supporting EPIQ research, with a DOI where available."
+  link: datasets-and-code/index.html
+- title: "Conference proceedings"
+  icon: "🎤"
+  description: "Papers and abstracts published in conference proceedings."
+  link: conference-proceedings/index.html
+- title: "Popular science articles"
+  icon: "📰"
+  description: "Articles for a general audience (magazines, blogs, newsletters)."
+  link: popular-science-articles/index.html

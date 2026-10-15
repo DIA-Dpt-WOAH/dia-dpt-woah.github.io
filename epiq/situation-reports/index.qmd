@@ -1,0 +1,24 @@
+---
+title: "Disease situation reports"
+subtitle: "Periodic situation report on priority diseases"
+title-block-banner: "#FFE7F0"
+title-block-banner-color: "#27282A"
+css: ../epiq.css
+toc: false
+listing:
+  id: topics
+  contents: topics.yml
+  template: ../topics.ejs
+  sort: false
+---
+
+[← Back to EPIQ](../index.qmd)
+
+{{< include _weekly-findings.qmd >}}
+
+## Reports by disease and topic
+
+Select a disease or topic to see all its reports.
+
+::: {#topics}
+:::

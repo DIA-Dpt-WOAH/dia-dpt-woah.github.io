@@ -1,0 +1,20 @@
+---
+title: "Technical reports"
+subtitle: "Technical reports connected to EPIQ activities (e.g. theses, internship reports, workshops, etc.)"
+title-block-banner: "#FFE7F0"
+title-block-banner-color: "#27282A"
+css: ../epiq.css
+toc: false
+listing:
+  id: topics
+  contents: topics.yml
+  template: ../topics.ejs
+  sort: false
+---
+
+[← Back to EPIQ](../index.qmd)
+
+Select a type of product to see all available documents.
+
+::: {#topics}
+:::

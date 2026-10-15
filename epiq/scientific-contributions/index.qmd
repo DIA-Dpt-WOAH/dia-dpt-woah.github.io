@@ -1,0 +1,20 @@
+---
+title: "Scientific contributions"
+subtitle: "EPIQ contribution to the scientific community"
+title-block-banner: "#FFE7F0"
+title-block-banner-color: "#27282A"
+css: ../epiq.css
+toc: false
+listing:
+  id: topics
+  contents: topics.yml
+  template: ../topics.ejs
+  sort: false
+---
+
+[← Back to EPIQ](../index.qmd)
+
+Select a type of contribution to see all items.
+
+::: {#topics}
+:::
